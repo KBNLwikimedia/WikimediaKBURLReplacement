@@ -13,6 +13,6 @@ Read [this article](stories/Making%20references%20to%20Dutch%20newspapers%20in%2
 
 * Folder *[GvN](GvN)* : Pywikibot commands for [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) to replace links to Geheugen van Nederland (GvN) in Wikipedia based on [this example](https://www.mediawiki.org/wiki/Manual:Pywikibot/PAWS#A_real_script_example)
 
-* Folder *[ScriptsHayKranen_KrantenKB](ScriptsHayKranen_KrantenKB)* : two Pyton scripts to replace URLs of newspapers in Delpher. Not yet workked with.
+* Folder *[ScriptsHayKranen_KrantenKB](ScriptsHayKranen_KrantenKB)* : two Pyton scripts to replace URLs of newspapers in Delpher. Not yet worked with.
 
 A Jypyter notebooks ([PAWS](https://wikitech.wikimedia.org/wiki/PAWS)) implementation of these scripts is available from https://paws-public.wmflabs.org/paws-public/User:OlafJanssenBot/WikipediaURLReplacement/
