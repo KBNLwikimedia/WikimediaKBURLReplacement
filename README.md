@@ -3,7 +3,7 @@
 Read this [article](stories/Making%20references%20to%20Dutch%20newspapers%20in%20Wikipedia%20more%20sustainable.md) to understand why and how the KB replaces outdates URLs in Wikipedia.
 
 * Folder *[ScriptsMerlijnVanDeen](ScriptsMerlijnVanDeen)*
-  - The technique for replacing URLs is detailed in [this blogpost](https://web.archive.org/web/20200522204706/https://merlijn.vandeen.nl/2015/kb-replace-dead-links.html) by Merlijn van Deen.
+ - The technique for replacing URLs is detailed in [this blogpost](https://web.archive.org/web/20200522204706/https://merlijn.vandeen.nl/2015/kb-replace-dead-links.html) by Merlijn van Deen.
 <img src="stories/images/blogMvD_part1.jpg" align="left" width="200"/>
 <img src="stories/images/blogMvD_part2.jpg" align="left" width="200"/>
 <img src="stories/images/blogMvD_part3.jpg" align="left" width="200"/>
