@@ -53,6 +53,8 @@ For these four reasons, it was a good idea to replace as many of those unsustain
 
 Fortunately, years ago in 2015, following [a request from the KB](https://nl.wikipedia.org/w/index.php?title=Wikipedia:Verzoekpagina_voor_bots&oldid=44057475#Dode_URLs_(404s)_vervangen_in_artikelen_-_in_bulk_via_Excel-bestand), the Wikipedian [Merlijn van Deen](https://meta.wikimedia.org/wiki/User:Valhallasw) wrote a blog post on how to semi-automatically replace old, dead links to KB sites with new, working ones in Wikipedia. The [approach & scripts](https://web.archive.org/web/20200522204706/https://merlijn.vandeen.nl/2015/kb-replace-dead-links.html) he shared back then (after being shelfed for 5 years) suddenly came in very handy to get my job done!
 
+<kbd><img src="images/blogMvD_part1.jpg" align="left" width="600"/></kbd>
+
 I converted these scripts into [two Jupyter notebooks](https://paws-public.wmflabs.org/paws-public/User:OlafJanssenBot/WikipediaURLReplacement/ScriptsMerlijnVanDeen/scripts/) and using of some Excel work and the [replace.py](https://www.mediawiki.org/wiki/Manual:Pywikibot/replace.py) routine form the [Pywikibot framework](https://www.mediawiki.org/wiki/Manual:Pywikibot) I managed to make [hundreds of Delpher links more sustainable](https://nl.wikipedia.org/w/index.php?target=OlafJanssen&namespace=all&tagfilter=&start=2020-05-24&end=2020-05-25&limit=1400&title=Speciaal%3ABijdragen), as evidenced by the screenshot below.
 
 <kbd><img src="images/image_53119777751590488992059.png" width="800"/></kbd>
