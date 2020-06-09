@@ -8,7 +8,7 @@ Read this [article](stories/Making%20references%20to%20Dutch%20newspapers%20in%2
 <img src="stories/images/blogMvD_part1.jpg" align="left" width="200"/>
 <img src="stories/images/blogMvD_part2.jpg" align="left" width="200"/>
 <img src="stories/images/blogMvD_part3.jpg" align="left" width="200"/>
-<img src="stories/images/blogMvD_part4.jpg" align="left" width="200"/>
+<img src="stories/images/blogMvD_part4.jpg" align="left" width="200"/><br clear="all">
  
 * Folder *[GvN](GvN)* : Pywikibot commands for [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) to replace links to Geheugen van Nederland (GvN) in Wikipedia based on [this example](https://www.mediawiki.org/wiki/Manual:Pywikibot/PAWS#A_real_script_example)
 
