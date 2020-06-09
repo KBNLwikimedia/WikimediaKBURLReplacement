@@ -1,4 +1,4 @@
-**Code, scripts and stories about replacing outdated or non-persistent URLs of KB services in Wikipedia, Commons and Wikidata**
+**Code, scripts and stories about replacing outdated or non-persistent URLs of KB services in Wikipedia, Wikimedia Commons and Wikidata**
 
 Read [this article](stories/Making%20references%20to%20Dutch%20newspapers%20in%20Wikipedia%20more%20sustainable.md) to understand why and how the KB replaces outdates URLs in Wikipedia.
 
