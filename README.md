@@ -2,6 +2,11 @@
 
 Read this [article](stories/Making%20references%20to%20Dutch%20newspapers%20in%20Wikipedia%20more%20sustainable.md) to understand why and how the KB replaces outdates URLs in Wikipedia.
 
+*Folder [GvN]()*
+
+*Folder [Hay]()*
+
+*Folder [MvD]()*
 - The technique for replacing URLs is detailed in [this blogpost](https://web.archive.org/web/20200522204706/https://merlijn.vandeen.nl/2015/kb-replace-dead-links.html) by Merlijn van Deen.
 - The code & scripts are available [from this folder](ScriptsMerlijnVanDeen/scripts)
 - A Jypyter notebooks implementation of these scripts is available from https://paws-public.wmflabs.org/paws-public/62709976/WikipediaURLReplacement/
