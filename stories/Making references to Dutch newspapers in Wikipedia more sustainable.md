@@ -13,7 +13,7 @@ To understand the rest of this post, I'll start with a short introduction of the
 *********
 
 ### Finding Delpher links in Wikipedia, Part 2 ###
-In my previous article *[Detecting Wikipedia articles strongly based on single library collections](https://github.com/ookgezellig/KB-Wiki-Stats-Graphs/blob/master/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.md)*, I explained how you can find Dutch Wikipedia articles that are based entirely or largely on content from Delpher. 
+In my previous article *[Detecting Wikipedia articles strongly based on single library collections](https://github.com/KBNLwikimedia/KB-Wiki-Stats-Graphs/blob/master/stories/Detecting%20Wikipedia%20articles%20strongly%20based%20on%20single%20library%20collections.md)*, I explained how you can find Dutch Wikipedia articles that are based entirely or largely on content from Delpher. 
 
 I used the [Massviews Analysis tool](https://tools.wmflabs.org/massviews/) (Dutch: *Analyse verzamelde weergaven*), which helps you to find articles that contain links to (in this case) newspapers in Delpher. It takes a URL (or rather: a URL pattern, or base URL) as input, and returns a list of articles containing that base URL. In the example below, that base URL is https://www.delpher.nl/nl/kranten/view?query= (in that URL, 'kranten' is the Dutch word for newspapers).
 
