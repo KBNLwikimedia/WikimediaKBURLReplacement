@@ -1,0 +1,2 @@
+pwb.py replace -simulate "-file:nlpages.txt" "-pairsfile:replacements_kb_kb.txt" "-summary:Vervang niet-duurzame Delpher links door duurzame resolver.kb.nl links"
+

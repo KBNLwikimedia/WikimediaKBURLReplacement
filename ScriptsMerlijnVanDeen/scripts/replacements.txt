@@ -1,0 +1,1569 @@
+Oude URL	Nieuwe URL
+https://www.delpher.nl/nl/kranten/view?query=%22Een+nieuwer+testament%22&page=1&sortfield=date&coll=ddd&identifier=ABCDDD:010814208:mpeg21:a0330&resultsidentifier=ABCDDD:010814208:mpeg21:a0330	https://resolver.kb.nl/resolve?urn=ABCDDD:010814208:mpeg21:a0330
+https://www.delpher.nl/nl/kranten/view?query=bernarddal&coll=ddd&page=3&sortfield=date&identifier=ABCDDD:010814523:mpeg21:a0099&resultsidentifier=ABCDDD:010814523:mpeg21:a0099	https://resolver.kb.nl/resolve?urn=ABCDDD:010814523:mpeg21:a0099
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28%28van+rest%29+%29+and+%28eindhoven+luchtmacht%29&cql%5B%5D=%28date+_gte_+%2201-01-1942%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1995%22%29&redirect=true&identifier=ABCDDD:010816121:mpeg21:a0127&resultsidentifier=ABCDDD:010816121:mpeg21:a0127	https://resolver.kb.nl/resolve?urn=ABCDDD:010816121:mpeg21:a0127
+https://www.delpher.nl/nl/kranten/view?query=stroomstoring+leidt+tot+plunderingen&coll=ddd&identifier=ABCDDD:010820680:mpeg21:a0007&resultsidentifier=ABCDDD:010820680:mpeg21:a0007	https://resolver.kb.nl/resolve?urn=ABCDDD:010820680:mpeg21:a0007
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28Billy+Bremner%29&cql%5B%5D=%28date+_gte_+%2201-09-1975%22%29&cql%5B%5D=%28date+_lte_+%2201-10-1975%22%29&redirect=true&identifier=ABCDDD:010822638:mpeg21:a0164&resultsidentifier=ABCDDD:010822638:mpeg21:a0164	https://resolver.kb.nl/resolve?urn=ABCDDD:010822638:mpeg21:a0164
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=Dufraisse&cql%5B%5D=%28date+_gte_+%2201-02-1956%22%29&cql%5B%5D=%28date+_lte_+%2228-02-1956%22%29&redirect=true&sortfield=date&identifier=ABCDDD:010830093:mpeg21:a0179&resultsidentifier=ABCDDD:010830093:mpeg21:a0179	https://resolver.kb.nl/resolve?urn=ABCDDD:010830093:mpeg21:a0179
+https://www.delpher.nl/nl/kranten/view?query=%28State*+Suriname+verkiezingen+1951+%29&coll=ddd&sortfield=date&page=1&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1950-1959%7C1955%7C&identifier=ABCDDD:010830742:mpeg21:a0003&resultsidentifier=ABCDDD:010830742:mpeg21:a0003	https://resolver.kb.nl/resolve?urn=ABCDDD:010830742:mpeg21:a0003
+https://www.delpher.nl/nl/kranten/view?query=%28State*+Suriname+verkiezingen+1951+%29&coll=ddd&sortfield=date&page=1&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1950-1959%7C1955%7C&identifier=ABCDDD:010830742:mpeg21:a0003&resultsidentifier=ABCDDD:010830742:mpeg21:a0003	https://resolver.kb.nl/resolve?urn=ABCDDD:010830742:mpeg21:a0003
+https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28date+_gte_+%2225-02-1953%22%29&cql%5B%5D=%28date+_lte_+%2225-02-1953%22%29&query=Manders&coll=ddd&redirect=true&identifier=ABCDDD:010832241:mpeg21:a0091&resultsidentifier=ABCDDD:010832241:mpeg21:a0091	https://resolver.kb.nl/resolve?urn=ABCDDD:010832241:mpeg21:a0091
+https://www.delpher.nl/nl/kranten/view?coll=ddd&cql%5B%5D=%28date%3D%2230-11-1990%22%29&redirect=true&resultscoll=dddtitel&identifier=ABCDDD:010833313:mpeg21	https://resolver.kb.nl/resolve?urn=ABCDDD:010833313:mpeg21:p001
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28Bronzen+kruis%29&cql%5B%5D=%28date+_gte_+%2217-02-1954%22%29&cql%5B%5D=%28date+_lte_+%2217-02-1954%22%29&facets%5Btype%5D%5B%5D=artikel&facets%5Bspatial%5D%5B%5D=Landelijk&facets%5Bspatial%5D%5B%5D=Regionaal%7Clokaal&redirect=true&identifier=ABCDDD:010834769:mpeg21:a0170&resultsidentifier=ABCDDD:010834769:mpeg21:a0170	https://resolver.kb.nl/resolve?urn=ABCDDD:010834769:mpeg21:a0170
+https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ABCDDD:010835150:mpeg21:a0101	https://resolver.kb.nl/resolve?urn=ABCDDD:010835150:mpeg21:a0101
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28sanering+tweede+divisie%29&cql%5B%5D=%28date+_gte_+%2201-03-1971%22%29&cql%5B%5D=%28date+_lte_+%2201-08-1971%22%29&redirect=true&page=1&maxperpage=50&sortfield=date&identifier=ABCDDD:010836366:mpeg21:a0243&resultsidentifier=ABCDDD:010836366:mpeg21:a0243	https://resolver.kb.nl/resolve?urn=ABCDDD:010836366:mpeg21:a0243
+https://www.delpher.nl/nl/kranten/view?query=%22Kees+Hiele%22&coll=ddd&sortfield=date&identifier=ABCDDD%3A010838521%3Ampeg21%3Aa0193&resultsidentifier=ABCDDD%3A010838521%3Ampeg21%3Aa0193	https://resolver.kb.nl/resolve?urn=ABCDDD:010838521:mpeg21:a0193
+https://www.delpher.nl/nl/kranten/view?query=smurfen&facets%5Btype%5D%5B%5D=advertentie&page=1&sortfield=date&coll=ddd&identifier=%28ABCDDD%29:%28010839534%29:mpeg21:3%29&resultsidentifier=ABCDDD:010839534:mpeg21:a0225	https://resolver.kb.nl/resolve?urn=ABCDDD:010839534:mpeg21:a0225
+https://www.delpher.nl/nl/kranten/view?query=Brink+ajax&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1970-1979%7C1978%7C&page=1&sortfield=datedesc&coll=ddd&identifier=ABCDDD:010841543:mpeg21:a0415&resultsidentifier=ABCDDD:010841543:mpeg21:a0415	https://resolver.kb.nl/resolve?urn=ABCDDD:010841543:mpeg21:a0415
+https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28date+_gte_+%2201-01-1952%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1952%22%29&query=sajet+oranje-nassau&coll=ddd&redirect=true&identifier=ABCDDD:010841696:mpeg21:a0004&resultsidentifier=ABCDDD:010841696:mpeg21:a0004	https://resolver.kb.nl/resolve?urn=ABCDDD:010841696:mpeg21:a0004
+https://www.delpher.nl/nl/kranten/view?query=%28Antroposofie%29&coll=ddd&sortfield=date&redirect=true&identifier=ABCDDD:010842069:mpeg21:a0318&resultsidentifier=ABCDDD:010842069:mpeg21:a0318	https://resolver.kb.nl/resolve?urn=ABCDDD:010842069:mpeg21:a0318
+https://www.delpher.nl/nl/kranten/view?coll=ddd&cql%5B%5D=%28date%3D%2229-04-1993%22%29&facets%5BtitleString%5D%5B%5D=Het+Parool&resultscoll=dddtitel&identifier=ABCDDD:010842525:mpeg21:p004	https://resolver.kb.nl/resolve?urn=ABCDDD:010842525:mpeg21:p004
+https://www.delpher.nl/nl/kranten/view?query=voetbaltoto&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1950-1959%7C1956%7C&page=4&coll=ddd&identifier=ABCDDD:010842801:mpeg21:a0008&resultsidentifier=ABCDDD:010842801:mpeg21:a0008	https://resolver.kb.nl/resolve?urn=ABCDDD:010842801:mpeg21:a0008
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=Dufraisse&cql%5B%5D=%28date+_gte_+%2201-02-1956%22%29&cql%5B%5D=%28date+_lte_+%2228-02-1956%22%29&redirect=true&sortfield=date&resultsidentifier=ABCDDD:010843379:mpeg21:a0161&identifier=ABCDDD:010843379:mpeg21:a0161	https://resolver.kb.nl/resolve?urn=ABCDDD:010843379:mpeg21:a0161
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=Dufraisse&cql%5B%5D=%28date+_gte_+%2201-03-1955%22%29&cql%5B%5D=%28date+_lte_+%2214-03-1955%22%29&redirect=true&sortfield=date&resultsidentifier=ABCDDD:010843887:mpeg21:a0128&identifier=ABCDDD:010843887:mpeg21:a0128	https://resolver.kb.nl/resolve?urn=ABCDDD:010843887:mpeg21:a0128
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=Dufraisse&cql%5B%5D=%28date+_gte_+%2219-02-1957%22%29&cql%5B%5D=%28date+_lte_+%2228-02-1957%22%29&redirect=true&sortfield=date&identifier=ABCDDD:010844706:mpeg21:a0311&resultsidentifier=ABCDDD:010844706:mpeg21:a0311	https://resolver.kb.nl/resolve?urn=ABCDDD:010844706:mpeg21:a0311
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=Dufraisse&cql%5B%5D=%28date+_gte_+%2219-02-1957%22%29&cql%5B%5D=%28date+_lte_+%2228-02-1957%22%29&redirect=true&sortfield=date&resultsidentifier=ABCDDD:010844707:mpeg21:a0128&identifier=ABCDDD:010844707:mpeg21:a0128	https://resolver.kb.nl/resolve?urn=ABCDDD:010844707:mpeg21:a0128
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=wereldkampioen&cql%5B%5D=%28date+_gte_+%2222-02-1952%22%29&cql%5B%5D=%28date+_lte_+%2228-02-1952%22%29&redirect=true&sortfield=date&identifier=ABCDDD:010844765:mpeg21:a0146&resultsidentifier=ABCDDD:010844765:mpeg21:a0146	https://resolver.kb.nl/resolve?urn=ABCDDD:010844765:mpeg21:a0146
+https://www.delpher.nl/nl/kranten/view?query=%22Cees+Wolzak%22+directeur&coll=ddd&sortfield=date&page=1&maxperpage=50&identifier=ABCDDD:010857011:mpeg21:a0260&resultsidentifier=ABCDDD:010857011:mpeg21:a0260	https://resolver.kb.nl/resolve?urn=ABCDDD:010857011:mpeg21:a0260
+https://www.delpher.nl/nl/kranten/view?query=Groningen-stad&facets%5Btype%5D%5B%5D=familiebericht&page=1&coll=ddd&identifier=ABCDDD:010866151:mpeg21:a0669&resultsidentifier=ABCDDD:010866151:mpeg21:a0669	https://resolver.kb.nl/resolve?urn=ABCDDD:010866151:mpeg21:a0669
+https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ABCDDD:010866167:mpeg21:a0255&objectsearch=chorus	https://resolver.kb.nl/resolve?urn=ABCDDD:010866167:mpeg21:a0255
+https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ABCDDD:010871168:mpeg21:a0019&objectsearch=eis+doodstraf	https://resolver.kb.nl/resolve?urn=ABCDDD:010871168:mpeg21:a0019
+https://www.delpher.nl/nl/kranten/view?query=Lhoest&facets%5Bperiode%5D%5B%5D=1%7C20e_eeuw%7C1960-1969%7C&page=7&coll=ddd&identifier=ABCDDD:010875509:mpeg21:a0269&resultsidentifier=ABCDDD:010875509:mpeg21:a0269	https://resolver.kb.nl/resolve?urn=ABCDDD:010875509:mpeg21:a0269
+https://www.delpher.nl/nl/kranten/view?query=lutz+legende+gele+trui&coll=ddd&identifier=ABCDDD:010876012:mpeg21:a0346&resultsidentifier=ABCDDD:010876012:mpeg21:a0346	https://resolver.kb.nl/resolve?urn=ABCDDD:010876012:mpeg21:a0346
+https://www.delpher.nl/nl/kranten/view?query=terror*+pretoria&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1980-1989%7C1983%7C&page=2&sortfield=date&coll=ddd&identifier=ABCDDD:010878529:mpeg21:a0087&resultsidentifier=ABCDDD:010878529:mpeg21:a0087	https://resolver.kb.nl/resolve?urn=ABCDDD:010878529:mpeg21:a0087
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28Led+Zeppelin%29&cql%5B%5D=%28date+_gte_+%2221-06-1980%22%29&cql%5B%5D=%28date+_lte_+%2223-06-1980%22%29&redirect=true&resultsidentifier=ABCDDD:010880026:mpeg21:a0092&identifier=ABCDDD:010880026:mpeg21:a0092	https://resolver.kb.nl/resolve?urn=ABCDDD:010880026:mpeg21:a0092
+https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28date+_gte_+%2228-05-1975%22%29&cql%5B%5D=%28date+_lte_+%2205-06-1975%22%29&query=%28Bayern+%29&coll=ddd&redirect=true&identifier=ABCDDD:010880801:mpeg21:a0236&resultsidentifier=ABCDDD:010880801:mpeg21:a0236	https://resolver.kb.nl/resolve?urn=ABCDDD:010880801:mpeg21:a0236
+https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ABCDDD:010881405:mpeg21:p005	https://resolver.kb.nl/resolve?urn=ABCDDD:010881405:mpeg21:p005
+https://www.delpher.nl/nl/kranten/view?ddd&facets%7C&identifier=ddd:000010462:mpeg21:a0006&resultsidentifier=ddd:000010462:mpeg21:a0006	https://resolver.kb.nl/resolve?urn=ddd:000010462:mpeg21:a0006
+https://www.delpher.nl/nl/kranten/view?%7C&resultsidentifier=ddd:000016385:mpeg21:a0011&identifier=ddd:000016385:mpeg21:a0011	https://resolver.kb.nl/resolve?urn=ddd:000016385:mpeg21:a0011
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&identifier=ddd:000019719:mpeg21:a0009&resultsidentifier=ddd:000019719:mpeg21:a0009	https://resolver.kb.nl/resolve?urn=ddd:000019719:mpeg21:a0009
+https://www.delpher.nl/nl/kranten/view?query=steenberghe-engeringh&page=1&maxperpage=20&sortfield=date&cql%5B%5D=%28date+_gte_+%2201-01-1911%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1952%22%29&coll=ddd&redirect=true&identifier=ddd:010000303:mpeg21:a0030&resultsidentifier=ddd:010000303:mpeg21:a0030	https://resolver.kb.nl/resolve?urn=ddd:010000303:mpeg21:a0030
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=flier&cql%5B%5D=%28date+_gte_+%2213-12-1920%22%29&cql%5B%5D=%28date+_lte_+%2213-12-1920%22%29&redirect=true&maxperpage=10&resultsidentifier=ddd:010006969:mpeg21:a0103&identifier=ddd:010006969:mpeg21:a0103	https://resolver.kb.nl/resolve?urn=ddd:010006969:mpeg21:a0103
+https://www.delpher.nl/nl/kranten/view?%7C&page=2&sortfield=date&coll=ddd&identifier=ddd:010013035:mpeg21:a0062&resultsidentifier=ddd:010013035:mpeg21:a0062	https://resolver.kb.nl/resolve?urn=ddd:010013035:mpeg21:a0062
+https://www.delpher.nl/nl/kranten/view?%7C&page=3&sortfield=date&coll=ddd&identifier=ddd:010013148:mpeg21:a0071&resultsidentifier=ddd:010013148:mpeg21:a0071	https://resolver.kb.nl/resolve?urn=ddd:010013148:mpeg21:a0071
+https://www.delpher.nl/nl/kranten/view?%7C&page=2&sortfield=date&coll=ddd&identifier=ddd:010014826:mpeg21:a0152&resultsidentifier=ddd:010014826:mpeg21:a0152	https://resolver.kb.nl/resolve?urn=ddd:010014826:mpeg21:a0152
+https://www.delpher.nl/nl/kranten/view?%7C&page=2&sortfield=date&coll=ddd&identifier=ddd:010015398:mpeg21:a0154&resultsidentifier=ddd:010015398:mpeg21:a0154	https://resolver.kb.nl/resolve?urn=ddd:010015398:mpeg21:a0154
+https://www.delpher.nl/nl/kranten/view?%7C&page=9&sortfield=date&coll=ddd&identifier=ddd:010015450:mpeg21:a0273&resultsidentifier=ddd:010015450:mpeg21:a0273	https://resolver.kb.nl/resolve?urn=ddd:010015450:mpeg21:a0273
+https://www.delpher.nl/nl/kranten/view?query=rc'35&page=1&coll=ddd&identifier=ddd:010016272:mpeg21:a0212&resultsidentifier=ddd:010016272:mpeg21:a0212	https://resolver.kb.nl/resolve?urn=ddd:010016272:mpeg21:a0212
+https://www.delpher.nl/nl/kranten/view?query=%28Horst+%29&coll=ddd&maxperpage=50&page=1&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1930-1939%7C1937%7C&sortfield=date&identifier=ddd:010016985:mpeg21:a0011&resultsidentifier=ddd:010016985:mpeg21:a0011	https://resolver.kb.nl/resolve?urn=ddd:010016985:mpeg21:a0011
+https://www.delpher.nl/nl/kranten/view?identifier=ddd:010020216:mpeg21:a0003&coll=ddd	https://resolver.kb.nl/resolve?urn=ddd:010020216:mpeg21:a0003
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28Honkbal%29&cql%5B%5D=%28date+_gte_+%2201-01-1922%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1922%22%29&page=1&facets%5Bspatial%5D%5B%5D=Landelijk&facets%5Bspatial%5D%5B%5D=Regionaal%7Clokaal&sortfield=date&identifier=ddd:010026105:mpeg21:a0154&resultsidentifier=ddd:010026105:mpeg21:a0154	https://resolver.kb.nl/resolve?urn=ddd:010026105:mpeg21:a0154
+https://www.delpher.nl/nl/kranten/view?query=&page=1&cql%5B%5D=%28date+_gte_+%2222-06-1922%22%29&cql%5B%5D=%28date+_lte_+%2224-06-1922%22%29&cql%5B%5D=ppn+any+%28832495182%29&coll=ddd&redirect=true&resultscoll=dddtitel&identifier=ddd:010026135:mpeg21	https://resolver.kb.nl/resolve?urn=ddd:010026135:mpeg21:p001
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&coll=ddd&identifier=ddd:010030528:mpeg21:a0005&resultsidentifier=ddd:010030528:mpeg21:a0005	https://resolver.kb.nl/resolve?urn=ddd:010030528:mpeg21:a0005
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=rosenthal-may&cql%5B%5D=%28date+_gte_+%2201-01-1912%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1912%22%29&redirect=true&identifier=ddd:010032158:mpeg21:a0025&resultsidentifier=ddd:010032158:mpeg21:a0025	https://resolver.kb.nl/resolve?urn=ddd:010032158:mpeg21:a0025
+https://www.delpher.nl/nl/kranten/view?coll=ddd&cql%5B%5D=%28date+_gte_+%2212-09-1915%22%29&cql%5B%5D=%28date+_lte_+%2220-09-1915%22%29&cql%5B%5D=ppn+any+%28832495182%29&page=2&resultscoll=dddtitel&identifier=ddd:010034389:mpeg21	https://resolver.kb.nl/resolve?urn=ddd:010034389:mpeg21:p001
+https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010042210:mpeg21:a0008&objectsearch=Jan+van+Speijk	https://resolver.kb.nl/resolve?urn=ddd:010042210:mpeg21:a0008
+https://www.delpher.nl/nl/kranten/view?query=%28%22Spaansche+bok%22%29&page=1&sortfield=date&coll=ddd&identifier=ddd:010043270:mpeg21:a0005&resultsidentifier=ddd:010043270:mpeg21:a0005	https://resolver.kb.nl/resolve?urn=ddd:010043270:mpeg21:a0005
+https://www.delpher.nl/nl/kranten/view?query=%28goossens+PROX+aarle%29&page=1&cql%5B%5D=%28date+_lte_+%2203-01-1830%22%29&coll=ddd&redirect=true&identifier=ddd:010054494:mpeg21:a0006&resultsidentifier=ddd:010054494:mpeg21:a0006	https://resolver.kb.nl/resolve?urn=ddd:010054494:mpeg21:a0006
+https://www.delpher.nl/nl/kranten/view?%7C&resultsidentifier=ddd:010074175:mpeg21:a0001&identifier=ddd:010074175:mpeg21:a0001	https://resolver.kb.nl/resolve?urn=ddd:010074175:mpeg21:a0001
+https://www.delpher.nl/nl/kranten/view?query=%22Lang+zal+hij+leven%22&coll=ddd&identifier=ddd:010075708:mpeg21:a0005&resultsidentifier=ddd:010075708:mpeg21:a0005	https://resolver.kb.nl/resolve?urn=ddd:010075708:mpeg21:a0005
+https://www.delpher.nl/nl/kranten/view?query=casparis+haanen&coll=ddd&identifier=ddd:010076743:mpeg21:a0007&resultsidentifier=ddd:010076743:mpeg21:a0007	https://resolver.kb.nl/resolve?urn=ddd:010076743:mpeg21:a0007
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28goossens+aarle%29&cql%5B%5D=%28date+_gte_+%2201-01-1855%22%29&cql%5B%5D=%28date+_lte_+%2216-12-1859%22%29&facets%5Bspatial%5D%5B%5D=Regionaal%7Clokaal&redirect=true&identifier=ddd:010078500:mpeg21:a0016&resultsidentifier=ddd:010078500:mpeg21:a0016	https://resolver.kb.nl/resolve?urn=ddd:010078500:mpeg21:a0016
+https://www.delpher.nl/nl/kranten/view?%7C&identifier=ddd:010078761:mpeg21:a0010&resultsidentifier=ddd:010078761:mpeg21:a0010	https://resolver.kb.nl/resolve?urn=ddd:010078761:mpeg21:a0010
+https://www.delpher.nl/nl/kranten/view?%7C&identifier=ddd:010078815:mpeg21:p003&resultsidentifier=ddd:010078815:mpeg21:a0010	https://resolver.kb.nl/resolve?urn=ddd:010078815:mpeg21:p003
+https://www.delpher.nl/nl/kranten/view/index?image=ddd:010100946:mpeg21:a0055	https://resolver.kb.nl/resolve?urn=ddd:010100946:mpeg21:a0055
+https://www.delpher.nl/nl/kranten/view?query=%28george+rosenthal+zorgvlied%29&page=1&cql%5B%5D=%28date+_gte_+%2201-01-1909%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1909%22%29&coll=ddd&redirect=true&identifier=ddd:010108412:mpeg21:a0087&resultsidentifier=ddd:010108412:mpeg21:a0087	https://resolver.kb.nl/resolve?urn=ddd:010108412:mpeg21:a0087
+https://www.delpher.nl/nl/kranten/view?query=Ben+Ali+Libi+&coll=ddd&page=2&sortfield=date&identifier=ddd:010108424:mpeg21:a0041&resultsidentifier=ddd:010108424:mpeg21:a0041	https://resolver.kb.nl/resolve?urn=ddd:010108424:mpeg21:a0041
+https://www.delpher.nl/nl/kranten/view?query=Jan+Grijseels&coll=ddd&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1911%7C&page=1&identifier=ddd:010108954:mpeg21:a0150&resultsidentifier=ddd:010108954:mpeg21:a0150	https://resolver.kb.nl/resolve?urn=ddd:010108954:mpeg21:a0150
+https://www.delpher.nl/nl/kranten/view/index?image=ddd:010109066:mpeg21:a0178	https://resolver.kb.nl/resolve?urn=ddd:010109066:mpeg21:a0178
+https://www.delpher.nl/nl/kranten/view?query=%22zwarten+knecht%22+%22kinderen%22&coll=ddd&page=1&sortfield=date&identifier=ddd:010116114:mpeg21:a0042&resultsidentifier=ddd:010116114:mpeg21:a0042	https://resolver.kb.nl/resolve?urn=ddd:010116114:mpeg21:a0042
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28%22F.+de+Nijs%22+AND+Oudenbosch%29&cql%5B%5D=%28date+_gte_+%2201-01-1850%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1908%22%29&redirect=true&identifier=ddd:010130507:mpeg21:a0009&resultsidentifier=ddd:010130507:mpeg21:a0009	https://resolver.kb.nl/resolve?urn=ddd:010130507:mpeg21:a0009
+https://www.delpher.nl/nl/kranten/view?%7C19e_eeuw%7C&identifier=ddd:010131998:mpeg21:a0032&resultsidentifier=ddd:010131998:mpeg21:a0032	https://resolver.kb.nl/resolve?urn=ddd:010131998:mpeg21:a0032
+https://www.delpher.nl/nl/kranten/view/index?image=ddd:010158118:mpeg21:a0017	https://resolver.kb.nl/resolve?urn=ddd:010158118:mpeg21:a0017
+https://www.delpher.nl/nl/kranten/view/index?image=ddd:010164521:mpeg21:a0133	https://resolver.kb.nl/resolve?urn=ddd:010164521:mpeg21:a0133
+https://www.delpher.nl/nl/kranten/view/index?image=ddd:010167743:mpeg21:a0116	https://resolver.kb.nl/resolve?urn=ddd:010167743:mpeg21:a0116
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&sortfield=date&coll=ddd&identifier=ddd:010175697:mpeg21:p003&resultsidentifier=ddd:010175697:mpeg21:a0010	https://resolver.kb.nl/resolve?urn=ddd:010175697:mpeg21:p003
+https://www.delpher.nl/nl/kranten/view?query=Hesselink'&coll=ddd&page=12&sortfield=date&identifier=ddd:010177292:mpeg21:a0061&resultsidentifier=ddd:010177292:mpeg21:a0061	https://resolver.kb.nl/resolve?urn=ddd:010177292:mpeg21:a0061
+https://www.delpher.nl/nl/kranten/view/index?image=ddd:010179046:mpeg21:a0068	https://resolver.kb.nl/resolve?urn=ddd:010179046:mpeg21:a0068
+https://www.delpher.nl/nl/kranten/view/index?image=ddd:010190140:mpeg21:a0096	https://resolver.kb.nl/resolve?urn=ddd:010190140:mpeg21:a0096
+https://www.delpher.nl/nl/kranten/view?query=steenberghe-engeringh&page=6&maxperpage=20&sortfield=date&cql%5B%5D=%28date+_gte_+%2201-01-1911%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1952%22%29&coll=ddd&redirect=true&identifier=ddd:010193060:mpeg21:a0105&resultsidentifier=ddd:010193060:mpeg21:a0105	https://resolver.kb.nl/resolve?urn=ddd:010193060:mpeg21:a0105
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&sortfield=date&coll=ddd&identifier=ddd:010213089:mpeg21:a0136&resultsidentifier=ddd:010213089:mpeg21:a0136	https://resolver.kb.nl/resolve?urn=ddd:010213089:mpeg21:a0136
+https://www.delpher.nl/nl/kranten/view?%7C&identifier=ddd:010221130:mpeg21:a0148&resultsidentifier=ddd:010221130:mpeg21:a0148	https://resolver.kb.nl/resolve?urn=ddd:010221130:mpeg21:a0148
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&sortfield=date&coll=ddd&identifier=ddd:010228949:mpeg21:a0151&resultsidentifier=ddd:010228949:mpeg21:a0151	https://resolver.kb.nl/resolve?urn=ddd:010228949:mpeg21:a0151
+https://www.delpher.nl/nl/kranten/view?coll=ddd&cql%5B%5D=%28date%3D%2202-12-1922%22%29&facets%5BtitleString%5D%5B%5D=Nieuwe+Tilburgsche+Courant&resultscoll=dddtitel&identifier=ddd:010233750:mpeg21	https://resolver.kb.nl/resolve?urn=ddd:010233750:mpeg21:p001
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&coll=ddd&identifier=ddd:010234805:mpeg21:a0079&resultsidentifier=ddd:010234805:mpeg21:a0079	https://resolver.kb.nl/resolve?urn=ddd:010234805:mpeg21:a0079
+https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010236303:mpeg21	https://resolver.kb.nl/resolve?urn=ddd:010236303:mpeg21:p001
+https://www.delpher.nl/nl/kranten/view?coll=ddd&cql%5B%5D=%28date%3D%2209-10-1933%22%29&facets%5BtitleString%5D%5B%5D=Nieuwe+Tilburgsche+Courant&resultscoll=dddtitel&identifier=ddd:010236854:mpeg21	https://resolver.kb.nl/resolve?urn=ddd:010236854:mpeg21:p001
+https://www.delpher.nl/nl/kranten/view?query=Koning+Lodewijk+II&facets%5Bperiode%5D%5B%5D=1%7C19e_eeuw%7C1810-1819%7C&page=1&maxperpage=50&sortfield=date&coll=ddd&identifier=ddd:010240112:mpeg21:a0001&resultsidentifier=ddd:010240112:mpeg21:a0001	https://resolver.kb.nl/resolve?urn=ddd:010240112:mpeg21:a0001
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=Napoleon+or+napoleon&cql%5B%5D=%28date+_gte_+%2201-07-1810%22%29&cql%5B%5D=%28date+_lte_+%2201-08-1810%22%29&cql%5B%5D=ppn+any+%28832988790%29&redirect=true&identifier=ddd:010240121:mpeg21:a0004&resultsidentifier=ddd:010240121:mpeg21:a0004	https://resolver.kb.nl/resolve?urn=ddd:010240121:mpeg21:a0004
+https://www.delpher.nl/nl/kranten/view?%7C&page=8&sortfield=date&coll=ddd&identifier=ddd:010282847:mpeg21:a0248&resultsidentifier=ddd:010282847:mpeg21:a0248	https://resolver.kb.nl/resolve?urn=ddd:010282847:mpeg21:a0248
+https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28ppn+exact+%22841094454%22%29&query=Domela+and+Hitler&coll=ddd&sortfield=date&redirect=true&identifier=ddd:010310397:mpeg21:a0011&resultsidentifier=ddd:010310397:mpeg21:a0011,	https://resolver.kb.nl/resolve?urn=ddd:010310397:mpeg21:a0011
+https://www.delpher.nl/nl/kranten/view?query=%22h+Welling+%22+vriends+&coll=ddd&identifier=ddd:010311431:mpeg21:a0064&resultsidentifier=ddd:010311431:mpeg21:a0064	https://resolver.kb.nl/resolve?urn=ddd:010311431:mpeg21:a0064
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28harmonie+oudenbosch%29&cql%5B%5D=%28date+_gte_+%2201-01-1940%22%29&facets%5Btype%5D%5B%5D=artikel&facets%5Btype%5D%5B%5D=illustratie+met+onderschrift&facets%5Bspatial%5D%5B%5D=Landelijk&facets%5Bspatial%5D%5B%5D=Regionaal%7Clokaal&redirect=true&identifier=ddd:010315888:mpeg21:a0052&resultsidentifier=ddd:010315888:mpeg21:a0052	https://resolver.kb.nl/resolve?urn=ddd:010315888:mpeg21:a0052
+https://www.delpher.nl/nl/kranten/view/index?coll=ddd&image=ddd:010329037:mpeg21:a0052&page=3&maxperpage=10	https://resolver.kb.nl/resolve?urn=ddd:010329037:mpeg21:a0052
+https://www.delpher.nl/nl/kranten/view/index?coll=ddd&image=ddd:010329037:mpeg21:a0053&page=3&maxperpage=10	https://resolver.kb.nl/resolve?urn=ddd:010329037:mpeg21:a0053
+https://www.delpher.nl/nl/kranten/view?query=F.G.+Caupain,+Suriname&coll=ddd&identifier=ddd:010338335:mpeg21:a0010&resultsidentifier=ddd:010338335:mpeg21:a0010	https://resolver.kb.nl/resolve?urn=ddd:010338335:mpeg21:a0010
+https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28date+_gte_+%2201-01-1618%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1995%22%29&query=%28%22schilderij%22+Servaa*%29&coll=ddd&resultsidentifier=ddd:010346075:mpeg21:a0092&identifier=ddd:010346075:mpeg21:a0092	https://resolver.kb.nl/resolve?urn=ddd:010346075:mpeg21:a0092
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&sortfield=date&coll=ddd&identifier=ddd:010349627:mpeg21:a0044&resultsidentifier=ddd:010349627:mpeg21:a0044	https://resolver.kb.nl/resolve?urn=ddd:010349627:mpeg21:a0044
+https://www.delpher.nl/nl/kranten/view?%7C&page=7&sortfield=date&coll=ddd&identifier=ddd:010350394:mpeg21:a0041&resultsidentifier=ddd:010350394:mpeg21:a0041	https://resolver.kb.nl/resolve?urn=ddd:010350394:mpeg21:a0041
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=steenberghe-engeringh&cql%5B%5D=%28date+_gte_+%2201-01-1911%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1952%22%29&redirect=true&page=3&identifier=ddd:010362395:mpeg21:a0026&resultsidentifier=ddd:010362395:mpeg21:a0026	https://resolver.kb.nl/resolve?urn=ddd:010362395:mpeg21:a0026
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=Rondeaux&cql%5B%5D=%28date+_gte_+%2201-03-1953%22%29&cql%5B%5D=%28date+_lte_+%2231-03-1953%22%29&redirect=true&sortfield=date&resultsidentifier=ddd:010369063:mpeg21:a0125&identifier=ddd:010369063:mpeg21:a0125	https://resolver.kb.nl/resolve?urn=ddd:010369063:mpeg21:a0125
+https://www.delpher.nl/nl/kranten/view?query=voetbaltoto&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1950-1959%7C1956%7C&page=2&coll=ddd&identifier=ddd:010369622:mpeg21:a0122&resultsidentifier=ddd:010369622:mpeg21:a0122	https://resolver.kb.nl/resolve?urn=ddd:010369622:mpeg21:a0122
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=Dufraisse&cql%5B%5D=%28date+_gte_+%2219-02-1957%22%29&cql%5B%5D=%28date+_lte_+%2228-02-1957%22%29&redirect=true&sortfield=date&resultsidentifier=ddd:010369951:mpeg21:a0088&identifier=ddd:010369951:mpeg21:a0088	https://resolver.kb.nl/resolve?urn=ddd:010369951:mpeg21:a0088
+https://www.delpher.nl/nl/kranten/view?query=%28Honkbal+Hoofdklasse%29&facets%5Bspatial%5D%5B%5D=Landelijk&page=1&maxperpage=50&sortfield=date&cql%5B%5D=%28date+_gte_+%2201-01-1922%22%29&coll=ddd&identifier=ddd:010370009:mpeg21:a0121&resultsidentifier=ddd:010370009:mpeg21:a0121	https://resolver.kb.nl/resolve?urn=ddd:010370009:mpeg21:a0121
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=Dufraisse&cql%5B%5D=%28date+_gte_+%2212-02-1958%22%29&cql%5B%5D=%28date+_lte_+%2228-02-1958%22%29&redirect=true&sortfield=date&resultsidentifier=ddd:010370715:mpeg21:a0058&identifier=ddd:010370715:mpeg21:a0058	https://resolver.kb.nl/resolve?urn=ddd:010370715:mpeg21:a0058
+https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28date+_gte_+%2208-11-1953%22%29&cql%5B%5D=%28date+_lte_+%2210-11-1953%22%29&query=%28%28Nelly+Verschuur%29&coll=ddd&redirect=true&resultsidentifier=ddd:010371542:mpeg21:a0034&identifier=ddd:010371542:mpeg21:a0034	https://resolver.kb.nl/resolve?urn=ddd:010371542:mpeg21:a0034
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28medaille+van+de+stad+amsterdam%29&cql%5B%5D=%28date+_gte_+%2201-01-1967%22%29&cql%5B%5D=%28date+_lte_+%2201-12-1967%22%29&redirect=true&page=2&identifier=ddd:010373182:mpeg21:a0159&resultsidentifier=ddd:010373182:mpeg21:a0159	https://resolver.kb.nl/resolve?urn=ddd:010373182:mpeg21:a0159
+https://www.delpher.nl/nl/kranten/view?query=de+Nederlandse+Bob+Dylan+Armand&page=1&coll=ddd&identifier=ddd:010373212:mpeg21:a0063&resultsidentifier=ddd:010373212:mpeg21:a0063	https://resolver.kb.nl/resolve?urn=ddd:010373212:mpeg21:a0063
+https://www.delpher.nl/nl/kranten/view?facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1980-1989%7C1980%7C&query=spinozalyceum&coll=ddd&sortfield=date&identifier=ddd:010376910:mpeg21:a0076&resultsidentifier=ddd:010376910:mpeg21:a0076	https://resolver.kb.nl/resolve?urn=ddd:010376910:mpeg21:a0076
+https://www.delpher.nl/nl/kranten/view?query=05400+hengelo&coll=ddd&page=1&facets%5Bperiode%5D%5B%5D=0%7C20e_eeuw%7C&sortfield=datedesc&identifier=ddd:010377329:mpeg21:a0026&resultsidentifier=ddd:010377329:mpeg21:a0026	https://resolver.kb.nl/resolve?urn=ddd:010377329:mpeg21:a0026
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&identifier=ddd:010396838:mpeg21:p002&resultsidentifier=ddd:010396838:mpeg21:a0008	https://resolver.kb.nl/resolve?urn=ddd:010396838:mpeg21:p002
+https://www.delpher.nl/nl/kranten/view?%7C&page=2&identifier=ddd:010397798:mpeg21:a0018&resultsidentifier=ddd:010397798:mpeg21:a0018	https://resolver.kb.nl/resolve?urn=ddd:010397798:mpeg21:a0018
+https://www.delpher.nl/nl/kranten/view?query=karamat+notar*&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1950-1959%7C1950%7C&page=2&sortfield=date&coll=ddd&identifier=ddd:010403224:mpeg21:a0083&resultsidentifier=ddd:010403224:mpeg21:a0083	https://resolver.kb.nl/resolve?urn=ddd:010403224:mpeg21:a0083
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28Nelly+verschuur%29&cql%5B%5D=%28date+_gte_+%2201-01-1943%22%29&cql%5B%5D=%28date+_lte_+%2201-04-1943%22%29&redirect=true&identifier=ddd:010412901:mpeg21:a0102&resultsidentifier=ddd:010412901:mpeg21:a0102	https://resolver.kb.nl/resolve?urn=ddd:010412901:mpeg21:a0102
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28Nelly+verschuur%29&cql%5B%5D=%28date+_gte_+%2201-11-1942%22%29&cql%5B%5D=%28date+_lte_+%2201-04-1943%22%29&redirect=true&identifier=ddd:010413855:mpeg21:a0049&resultsidentifier=ddd:010413855:mpeg21:a0049	https://resolver.kb.nl/resolve?urn=ddd:010413855:mpeg21:a0049
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=Dufraisse&cql%5B%5D=%28date+_gte_+%2225-02-1954%22%29&cql%5B%5D=%28date+_lte_+%2210-03-1954%22%29&redirect=true&sortfield=date&resultsidentifier=ddd:010418025:mpeg21:a0127&identifier=ddd:010418025:mpeg21:a0127	https://resolver.kb.nl/resolve?urn=ddd:010418025:mpeg21:a0127
+https://www.delpher.nl/nl/kranten/view?query=Lhoest&facets%5Bperiode%5D%5B%5D=1%7C20e_eeuw%7C1960-1969%7C&page=6&coll=ddd&identifier=ddd:010418693:mpeg21:a0250&resultsidentifier=ddd:010418693:mpeg21:a0250	https://resolver.kb.nl/resolve?urn=ddd:010418693:mpeg21:a0250
+https://www.delpher.nl/nl/kranten/view?page=2&cql%5B%5D=ppn%3D851965725&coll=ddd&resultscoll=dddtitel&identifier=ddd:010419682:mpeg21:p001	https://resolver.kb.nl/resolve?urn=ddd:010419682:mpeg21:p001
+https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010419688:mpeg21:p003	https://resolver.kb.nl/resolve?urn=ddd:010419688:mpeg21:p003
+https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010419688:mpeg21:p004	https://resolver.kb.nl/resolve?urn=ddd:010419688:mpeg21:p004
+https://www.delpher.nl/nl/kranten/view?page=1&cql%5B%5D=ppn%3D268599092&coll=ddd&resultscoll=dddtitel&identifier=ddd:010420212:mpeg21:p001	https://resolver.kb.nl/resolve?urn=ddd:010420212:mpeg21:p001
+https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010422751:mpeg21:p001	https://resolver.kb.nl/resolve?urn=ddd:010422751:mpeg21:p001
+https://www.delpher.nl/nl/kranten/view?coll=ddd&cql%5B%5D=ppn+any+%28047567368%29&page=1&sortfield=date&resultscoll=dddtitel&identifier=ddd:010422751:mpeg21#info	https://resolver.kb.nl/resolve?urn=ddd:010422751:mpeg21:p001
+https://www.delpher.nl/nl/kranten/view?query=dank+aan+onze+medewerkers&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1940-1949%7C1945%7C&facets%5Btype%5D%5B%5D=artikel&page=13&coll=ddd&identifier=ddd:010435804:mpeg21:p001&resultsidentifier=ddd:010435804:mpeg21:a0001	https://resolver.kb.nl/resolve?urn=ddd:010435804:mpeg21:p001
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=&cql%5B%5D=%28date+_gte_+%2205-05-1945%22%29&cql%5B%5D=%28date+_lte_+%2205-12-1945%22%29&cql%5B%5D=ppn+any+%28271592982%29&redirect=true&resultscoll=dddtitel&identifier=ddd:010441585:mpeg21:p001	https://resolver.kb.nl/resolve?urn=ddd:010441585:mpeg21:p001
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28volksliedcommissie+%29&facets%5Bspatial%5D%5B%5D=Nederlandse+Antillen&identifier=ddd:010460165:mpeg21:a0084&resultsidentifier=ddd:010460165:mpeg21:a0084%7C	https://resolver.kb.nl/resolve?urn=ddd:010460165:mpeg21:a0084
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=volkslied&facets%5Bspatial%5D%5B%5D=Nederlandse+Antillen&identifier=ddd:010460187:mpeg21:a0080&resultsidentifier=ddd:010460187:mpeg21:a0080%7C	https://resolver.kb.nl/resolve?urn=ddd:010460187:mpeg21:a0080
+https://www.delpher.nl/nl/kranten/view/index?image=ddd:010474040:mpeg21:a0030	https://resolver.kb.nl/resolve?urn=ddd:010474040:mpeg21:a0030
+https://www.delpher.nl/nl/kranten/view?query=Publieke+veiling,+Onoribo&coll=ddd&identifier=ddd:010479042:mpeg21:a0010&resultsidentifier=ddd:010479042:mpeg21:a0010	https://resolver.kb.nl/resolve?urn=ddd:010479042:mpeg21:a0010
+https://www.delpher.nl/nl/kranten/view?query=requisitoir+van+Mr.+E.Grunberg+als+O.M.+in+de+strafzaak:+tegen+Simon+E.+Sanches&coll=ddd&identifier=ddd:010480302:mpeg21:p002&resultsidentifier=ddd:010480302:mpeg21:a0012	https://resolver.kb.nl/resolve?urn=ddd:010480302:mpeg21:p002
+https://www.delpher.nl/nl/kranten/view?coll=ddd&resultsidentifier=ddd:010481829:mpeg21:a0001&identifier=ddd:010481829:mpeg21:a0001&cql%5B%5D=%28date+_gte_+%2206-01-1937%22%29&cql%5B%5D=%28date+_lte_+%2206-01-1937%22%29&objectsearch=%28Horst+%29&query=%28Horst+%29	https://resolver.kb.nl/resolve?urn=ddd:010481829:mpeg21:a0001
+https://www.delpher.nl/nl/kranten/view?coll=ddd&resultsidentifier=ddd:010481829:mpeg21:a0001&identifier=ddd:010481829:mpeg21:a0091&cql%5B%5D=%28date+_gte_+%2206-01-1937%22%29&cql%5B%5D=%28date+_lte_+%2206-01-1937%22%29&objectsearch=%28Horst+%29&query=%28Horst+%29	https://resolver.kb.nl/resolve?urn=ddd:010481829:mpeg21:a0091
+https://www.delpher.nl/nl/kranten/view?query=M.H.C.+van+Oosterzee+deventer+sloet&coll=ddd&page=1&facets%5Bspatial%5D%5B%5D=Nederlands-Indi%C3%AB+%7C+Indonesi%C3%AB&identifier=ddd:010507185:mpeg21:a0026&resultsidentifier=ddd:010507185:mpeg21:a0026	https://resolver.kb.nl/resolve?urn=ddd:010507185:mpeg21:a0026
+https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010526299:mpeg21:a0208	https://resolver.kb.nl/resolve?urn=ddd:010526299:mpeg21:a0208
+https://www.delpher.nl/nl/kranten/view?query=dsm+%22de+staatsmijnen+%22&page=1&sortfield=date&coll=ddd&identifier=ddd:010526717:mpeg21:a0310&resultsidentifier=ddd:010526717:mpeg21:a0310	https://resolver.kb.nl/resolve?urn=ddd:010526717:mpeg21:a0310
+https://www.delpher.nl/nl/kranten/view?page=1&cql%5B%5D=ppn%3D270512284&coll=ddd&resultscoll=dddtitel&identifier=ddd:010527044:mpeg21:p001	https://resolver.kb.nl/resolve?urn=ddd:010527044:mpeg21:p001
+https://www.delpher.nl/nl/kranten/view?query=J.L.A.+Kremer+heeze&facets%5Bperiode%5D%5B%5D=1%7C19e_eeuw%7C1860-1869%7C&page=1&coll=ddd&identifier=ddd:010528457:mpeg21:a0035&resultsidentifier=ddd:010528457:mpeg21:a0035	https://resolver.kb.nl/resolve?urn=ddd:010528457:mpeg21:a0035
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28barbarakerk+rotterdam%29&cql%5B%5D=%28date+_gte_+%2201-01-1920%22%29&cql%5B%5D=%28date+_lte_+%2201-01-1960%22%29&redirect=true&page=3&maxperpage=50&identifier=ddd:010530760:mpeg21:a0111&resultsidentifier=ddd:010530760:mpeg21:a0111	https://resolver.kb.nl/resolve?urn=ddd:010530760:mpeg21:a0111
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28barbarakerk+rotterdam%29&cql%5B%5D=%28date+_gte_+%2201-01-1920%22%29&cql%5B%5D=%28date+_lte_+%2201-01-1960%22%29&redirect=true&page=1&maxperpage=50&identifier=ddd:010530762:mpeg21:a0140&resultsidentifier=ddd:010530762:mpeg21:a0140	https://resolver.kb.nl/resolve?urn=ddd:010530762:mpeg21:a0140
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28Agneskerk+prox+Amsterdam%29&cql%5B%5D=%28date+_gte_+%2201-01-1920%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1940%22%29&redirect=true&sortfield=date&resultsidentifier=ddd:010530873:mpeg21:a0106&identifier=ddd:010530873:mpeg21:a0106	https://resolver.kb.nl/resolve?urn=ddd:010530873:mpeg21:a0106
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&sortfield=date&coll=ddd&identifier=ddd:010534115:mpeg21:a0117&resultsidentifier=ddd:010534115:mpeg21:a0117	https://resolver.kb.nl/resolve?urn=ddd:010534115:mpeg21:a0117
+https://www.delpher.nl/nl/kranten/view?query=kuik+jehova's&coll=ddd&identifier=ddd:010536942:mpeg21:a0016&resultsidentifier=ddd:010536942:mpeg21:a0016	https://resolver.kb.nl/resolve?urn=ddd:010536942:mpeg21:a0016
+https://www.delpher.nl/nl/kranten/view/index?image=ddd:010538215:mpeg21:a0096	https://resolver.kb.nl/resolve?urn=ddd:010538215:mpeg21:a0096
+https://www.delpher.nl/nl/kranten/view?query=huwelijksfeest+Bernhard&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1930-1939%7C1936%7C&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1930-1939%7C1937%7C&facets%5Bspatial%5D%5B%5D=Landelijk&page=1&coll=ddd&maxperpage=50&identifier=ddd:010538351:mpeg21:a0116&resultsidentifier=ddd:010538351:mpeg21:a0116	https://resolver.kb.nl/resolve?urn=ddd:010538351:mpeg21:a0116
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28Agneskerk+prox+Amsterdam%29&cql%5B%5D=%28date+_gte_+%2201-01-1920%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1940%22%29&redirect=true&sortfield=date&resultsidentifier=ddd:010540763:mpeg21:a0079&page=11&identifier=ddd:010540763:mpeg21:a0079	https://resolver.kb.nl/resolve?urn=ddd:010540763:mpeg21:a0079
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&identifier=ddd:010543841:mpeg21:a0008&resultsidentifier=ddd:010543841:mpeg21:a0008	https://resolver.kb.nl/resolve?urn=ddd:010543841:mpeg21:a0008
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=Noord-Frankrijk&cql%5B%5D=%28date+_gte_+%2206-08-1915%22%29&cql%5B%5D=%28date+_lte_+%2207-08-1915%22%29&identifier=ddd:010547915:mpeg21:a0140&resultsidentifier=ddd:010547915:mpeg21:a0140	https://resolver.kb.nl/resolve?urn=ddd:010547915:mpeg21:a0140
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=olifant&cql%5B%5D=%28date+_gte_+%2228-10-1919%22%29&cql%5B%5D=%28date+_lte_+%2231-10-1919%22%29&redirect=true&identifier=ddd:010552448:mpeg21:a0208&resultsidentifier=ddd:010552448:mpeg21:a0208	https://resolver.kb.nl/resolve?urn=ddd:010552448:mpeg21:a0208
+https://www.delpher.nl/nl/kranten/view?query=%22Spaanschen+bok%22&coll=ddd&resultsidentifier=ddd:010556406:mpeg21:a0037&identifier=ddd:010556406:mpeg21:a0037	https://resolver.kb.nl/resolve?urn=ddd:010556406:mpeg21:a0037
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28Volker+Stevin+NOT+beurs+NOT+aandelen+NOT+beursoverzicht%29&cql%5B%5D=%28date+_gte_+%2217-05-1991%22%29&facets%5Bspatial%5D%5B%5D=Landelijk&facets%5Btype%5D%5B%5D=artikel&page=3&sortfield=date&identifier=ddd:010560077:mpeg21:a0134&resultsidentifier=ddd:010560077:mpeg21:a0134	https://resolver.kb.nl/resolve?urn=ddd:010560077:mpeg21:a0134
+https://www.delpher.nl/nl/kranten/view?query=%22Vorster+Kapel%22&coll=ddd&identifier=ddd:010560563:mpeg21:a0230&resultsidentifier=ddd:010560563:mpeg21:a0230	https://resolver.kb.nl/resolve?urn=ddd:010560563:mpeg21:a0230
+https://www.delpher.nl/nl/kranten/view?query=popencyclopedie&coll=ddd&sortfield=date&identifier=ddd:010563398:mpeg21:a0520&resultsidentifier=ddd:010563398:mpeg21:a0104	https://resolver.kb.nl/resolve?urn=ddd:010563398:mpeg21:a0520
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&sortfield=date&coll=ddd&identifier=ddd:010570203:mpeg21:a0030&resultsidentifier=ddd:010570203:mpeg21:a0030	https://resolver.kb.nl/resolve?urn=ddd:010570203:mpeg21:a0030
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%2820+maal+maigret%29&cql%5B%5D=%28date+_gte_+%2201-01-1979%22%29&redirect=true&sortfield=date&identifier=ddd:010570230:mpeg21:a0142&resultsidentifier=ddd:010570230:mpeg21:a0142	https://resolver.kb.nl/resolve?urn=ddd:010570230:mpeg21:a0142
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28barbarakerk+rotterdam%29&cql%5B%5D=%28date+_gte_+%2201-01-1970%22%29&redirect=true&page=2&sortfield=datedesc&maxperpage=50&identifier=ddd:010572620:mpeg21:a0028&resultsidentifier=ddd:010572620:mpeg21:a0028	https://resolver.kb.nl/resolve?urn=ddd:010572620:mpeg21:a0028
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&identifier=ddd:010584810:mpeg21:a0016&resultsidentifier=ddd:010584810:mpeg21:a0016	https://resolver.kb.nl/resolve?urn=ddd:010584810:mpeg21:a0016
+https://www.delpher.nl/nl/kranten/view?query=Sonja+Aids&page=1&coll=ddd&maxperpage=50&identifier=ddd:010593405:mpeg21:a0162&resultsidentifier=ddd:010593405:mpeg21:a0162	https://resolver.kb.nl/resolve?urn=ddd:010593405:mpeg21:a0162
+https://www.delpher.nl/nl/kranten/view?query=troelstra+maand+hogerhuis+veroordeeld&page=4&sortfield=date&coll=ddd&identifier=ddd:010595609:mpeg21:a0004&resultsidentifier=ddd:010595609:mpeg21:a0004	https://resolver.kb.nl/resolve?urn=ddd:010595609:mpeg21:a0004
+https://www.delpher.nl/nl/kranten/view?query=hittepetit&coll=ddd&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1920-1929%7C1921%7C&facets%5Btype%5D%5B%5D=artikel&identifier=ddd:010602241:mpeg21:a0078&resultsidentifier=ddd:010602241:mpeg21:a0078	https://resolver.kb.nl/resolve?urn=ddd:010602241:mpeg21:a0078
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&sortfield=date&identifier=ddd:010604914:mpeg21:a0115&resultsidentifier=ddd:010604914:mpeg21:a0115	https://resolver.kb.nl/resolve?urn=ddd:010604914:mpeg21:a0115
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28anton+pieck%29&cql%5B%5D=%28date+_gte_+%2201-11-1987%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1987%22%29&page=1&identifier=ddd:010611406:mpeg21:a0143&resultsidentifier=ddd:010611406:mpeg21:a0143	https://resolver.kb.nl/resolve?urn=ddd:010611406:mpeg21:a0143
+https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010611794:mpeg21:a0294	https://resolver.kb.nl/resolve?urn=ddd:010611794:mpeg21:a0294
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28Wagtmans+Voorting+Van+Roon%29&cql%5B%5D=%28date+_gte_+%2201-01-1951%22%29&cql%5B%5D=%28date+_lte_+%2231-03-1951%22%29&redirect=true&sortfield=date&resultsidentifier=ddd:010612891:mpeg21:a0095&identifier=ddd:010612891:mpeg21:a0095	https://resolver.kb.nl/resolve?urn=ddd:010612891:mpeg21:a0095
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=Rondeaux&cql%5B%5D=%28date+_gte_+%2201-03-1953%22%29&cql%5B%5D=%28date+_lte_+%2231-03-1953%22%29&redirect=true&sortfield=date&resultsidentifier=ddd:010613504:mpeg21:a0180&identifier=ddd:010613504:mpeg21:a0180	https://resolver.kb.nl/resolve?urn=ddd:010613504:mpeg21:a0180
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=Dufraisse&cql%5B%5D=%28date+_gte_+%2201-03-1955%22%29&cql%5B%5D=%28date+_lte_+%2214-03-1955%22%29&redirect=true&sortfield=date&resultsidentifier=ddd:010614043:mpeg21:a0106&identifier=ddd:010614043:mpeg21:a0106	https://resolver.kb.nl/resolve?urn=ddd:010614043:mpeg21:a0106
+https://www.delpher.nl/nl/kranten/view?query=%22belle+en+het+beest%22&coll=ddd&page=1&sortfield=date&identifier=ddd:010616550:mpeg21:a0131&resultsidentifier=ddd:010616550:mpeg21:a0131	https://resolver.kb.nl/resolve?urn=ddd:010616550:mpeg21:a0131
+https://www.delpher.nl/nl/kranten/view?identifier=ddd:010617167:mpeg21:a0008&coll=ddd	https://resolver.kb.nl/resolve?urn=ddd:010617167:mpeg21:a0008
+https://www.delpher.nl/nl/kranten/view?query=%28peten+Willem-Alexander%29&coll=ddd&page=2&identifier=ddd:010617826:mpeg21:a0107&resultsidentifier=ddd:010617826:mpeg21:a0107#info	https://resolver.kb.nl/resolve?urn=ddd:010617826:mpeg21:a0107
+https://www.delpher.nl/nl/kranten/view%7C&identifier=ddd:010619007:mpeg21:a0122&resultsidentifier=ddd:010619007:mpeg21:a0122	https://resolver.kb.nl/resolve?urn=ddd:010619007:mpeg21:a0122
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=harm+van+de+veen&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1970-1979%7C1974%7C&facets%5Bspatial%5D%5B%5D=Regionaal%7Clokaal&facets%5Bpapertitle%5D%5B%5D=Leeuwarder+courant+:+hoofdblad+van+Friesland&identifier=ddd:010619689:mpeg21:a0291&resultsidentifier=ddd:010619689:mpeg21:a0291	https://resolver.kb.nl/resolve?urn=ddd:010619689:mpeg21:a0291
+https://www.delpher.nl/nl/kranten/view/index?image=ddd:010620796:mpeg21:a0273	https://resolver.kb.nl/resolve?urn=ddd:010620796:mpeg21:a0273
+https://www.delpher.nl/nl/kranten/view?query=chriet+titulaer&page=6&coll=ddd&identifier=ddd:010620982:mpeg21:a0104&resultsidentifier=ddd:010620982:mpeg21:a0104	https://resolver.kb.nl/resolve?urn=ddd:010620982:mpeg21:a0104
+https://www.delpher.nl/nl/kranten/view?query=+bollington++scheidsrechter&coll=ddd&maxperpage=10&identifier=ddd:010621017:mpeg21:a0214&resultsidentifier=ddd:010621017:mpeg21:a0214	https://resolver.kb.nl/resolve?urn=ddd:010621017:mpeg21:a0214
+https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28date+_gte_+%2201-01-1970%22%29&cql%5B%5D=%28date+_lte_+%2231-12-2000%22%29&query=frank+janssen+ajax&coll=ddd&redirect=true&resultsidentifier=ddd:010621021:mpeg21:a0247&identifier=ddd:010621021:mpeg21:a0247	https://resolver.kb.nl/resolve?urn=ddd:010621021:mpeg21:a0247
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28maigret+%29&cql%5B%5D=%28date+_gte_+%2225-05-1979%22%29&cql%5B%5D=%28date+_lte_+%2230-12-1980%22%29&redirect=true&sortfield=date&resultsidentifier=ddd:010621189:mpeg21:a0411&page=5&identifier=ddd:010621189:mpeg21:a0411	https://resolver.kb.nl/resolve?urn=ddd:010621189:mpeg21:a0411
+https://www.delpher.nl/nl/kranten/view?query=Henk+Fernandes&identifier=ddd:010621972:mpeg21:a0159	https://resolver.kb.nl/resolve?urn=ddd:010621972:mpeg21:a0159
+https://www.delpher.nl/nl/kranten/view?query=%22frans+steensma%22&page=2&coll=ddd&identifier=ddd:010622872:mpeg21:a0420&resultsidentifier=ddd:010622872:mpeg21:a0420	https://resolver.kb.nl/resolve?urn=ddd:010622872:mpeg21:a0420
+https://www.delpher.nl/nl/kranten/view?query=%22+van+der+Mark.+%22+Oosterbeek+Vlieland+&coll=ddd&identifier=ddd:010622962:mpeg21:a0291&resultsidentifier=ddd:010622962:mpeg21:a0291	https://resolver.kb.nl/resolve?urn=ddd:010622962:mpeg21:a0291
+https://www.delpher.nl/nl/kranten/view?query=05400+hengelo&coll=ddd&page=1&facets%5Bperiode%5D%5B%5D=0%7C20e_eeuw%7C&sortfield=datedesc&identifier=ddd:010627657:mpeg21:a0873&resultsidentifier=ddd:010627657:mpeg21:a0873	https://resolver.kb.nl/resolve?urn=ddd:010627657:mpeg21:a0873
+https://www.delpher.nl/nl/kranten/view?query=05400+hengelo&coll=ddd&page=1&facets%5Bperiode%5D%5B%5D=0%7C20e_eeuw%7C&sortfield=datedesc&identifier=ddd:010627679:mpeg21:a0019&resultsidentifier=ddd:010627679:mpeg21:a0019	https://resolver.kb.nl/resolve?urn=ddd:010627679:mpeg21:a0019
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28Baart+%29&cql%5B%5D=%28date+_gte_+%2201-03-1907%22%29&cql%5B%5D=%28date+_lte_+%2210-03-1907%22%29&redirect=true&page=3&sortfield=date&resultsidentifier=ddd:010634612:mpeg21:a0001&identifier=ddd:010634612:mpeg21:a0001	https://resolver.kb.nl/resolve?urn=ddd:010634612:mpeg21:a0001
+https://www.delpher.nl/nl/kranten/view?query=koninkrijksspelen&facets%5Bspatial%5D%5B%5D=Nederlandse+Antillen&page=2&coll=ddd&identifier=ddd:010640268:mpeg21:a0108&resultsidentifier=ddd:010640268:mpeg21:a0108%7C	https://resolver.kb.nl/resolve?urn=ddd:010640268:mpeg21:a0108
+https://www.delpher.nl/nl/kranten/view?facets%5Bspatial%5D%5B%5D=Nederlandse+Antillen&query=AD'86&coll=ddd&identifier=ddd:010642514:mpeg21:a0036&resultsidentifier=ddd:010642514:mpeg21:a0036	https://resolver.kb.nl/resolve?urn=ddd:010642514:mpeg21:a0036
+https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28date+_gte_+%2201-01-1618%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1995%22%29&cql%5B%5D=ppn+any+%28863860281+OR+840847114+OR+376311975%29&query=+%22herman+van+bergen%22&coll=ddd&redirect=true&identifier=ddd:010642817:mpeg21:a0071&resultsidentifier=ddd:010642817:mpeg21:a0071	https://resolver.kb.nl/resolve?urn=ddd:010642817:mpeg21:a0071
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=koninkrijksspelen&facets%5Bspatial%5D%5B%5D=Nederlandse+Antillen&identifier=ddd:010643761:mpeg21:a0109&resultsidentifier=ddd:010643761:mpeg21:a0109%7C	https://resolver.kb.nl/resolve?urn=ddd:010643761:mpeg21:a0109
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28slogan+cda%29&cql%5B%5D=%28date+_gte_+%2201-06-1989%22%29&page=1&sortfield=date&identifier=ddd:010645498:mpeg21:a0257&resultsidentifier=ddd:010645498:mpeg21:a0257	https://resolver.kb.nl/resolve?urn=ddd:010645498:mpeg21:a0257
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28Henk+van+der+Molen%29&cql%5B%5D=%28date+_gte_+%2201-06-1990%22%29&cql%5B%5D=%28date+_lte_+%2215-06-1990%22%29&redirect=true&identifier=ddd:010646066:mpeg21:a0611&resultsidentifier=ddd:010646066:mpeg21:a0611	https://resolver.kb.nl/resolve?urn=ddd:010646066:mpeg21:a0611
+https://www.delpher.nl/nl/kranten/view?query=Martine+Bijl+Berend+Boudewijn&coll=ddd&identifier=ddd:010646087:mpeg21:a0450&resultsidentifier=ddd:010646087:mpeg21:a0450	https://resolver.kb.nl/resolve?urn=ddd:010646087:mpeg21:a0450
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=vloed&cql%5B%5D=%28date+_gte_+%2220-07-1905%22%29&cql%5B%5D=%28date+_lte_+%2201-01-1907%22%29&redirect=true&sortfield=date&page=1&facets%5Btype%5D%5B%5D=artikel&maxperpage=50&identifier=ddd:010649549:mpeg21:a0004&resultsidentifier=ddd:010649549:mpeg21:a0004	https://resolver.kb.nl/resolve?urn=ddd:010649549:mpeg21:a0004
+https://www.delpher.nl/nl/kranten/view?query=Drucker+Israels&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1912%7C&page=1&maxperpage=50&sortfield=date&coll=ddd&identifier=ddd:010649935:mpeg21:a0146&resultsidentifier=ddd:010649935:mpeg21:a0146	https://resolver.kb.nl/resolve?urn=ddd:010649935:mpeg21:a0146
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28j.m.c.+bouvy%29&cql%5B%5D=%28date+_gte_+%2201-01-1900%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1929%22%29&redirect=true&identifier=ddd:010650110:mpeg21:a0100&resultsidentifier=ddd:010650110:mpeg21:a0100	https://resolver.kb.nl/resolve?urn=ddd:010650110:mpeg21:a0100
+https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28date+_gte_+%2201-05-1920%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1920%22%29&query=Wynandts&coll=ddd&sortfield=datedesc&redirect=true&identifier=ddd:010653575:mpeg21:a0133&resultsidentifier=ddd:010653575:mpeg21:a0133	https://resolver.kb.nl/resolve?urn=ddd:010653575:mpeg21:a0133
+https://www.delpher.nl/nl/kranten/view/index?image=ddd:010654163:mpeg21:a0005	https://resolver.kb.nl/resolve?urn=ddd:010654163:mpeg21:a0005
+https://www.delpher.nl/nl/kranten/view?facets%5Bperiode%5D%5B%5D=1%7C20e_eeuw%7C1910-1919%7C&query=%22commissie+die+naar+feiten+zal%22+&coll=ddd&identifier=ddd:010655655:mpeg21:a0104&resultsidentifier=ddd:010655655:mpeg21:a0104	https://resolver.kb.nl/resolve?urn=ddd:010655655:mpeg21:a0104
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&coll=ddd&identifier=ddd:010660264:mpeg21:a0164&resultsidentifier=ddd:010660264:mpeg21:a0164	https://resolver.kb.nl/resolve?urn=ddd:010660264:mpeg21:a0164
+https://www.delpher.nl/nl/kranten/view?%7C&page=6&sortfield=date&coll=ddd&identifier=ddd:010661977:mpeg21:a0138&resultsidentifier=ddd:010661977:mpeg21:a0138	https://resolver.kb.nl/resolve?urn=ddd:010661977:mpeg21:a0138
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&coll=ddd&identifier=ddd:010662268:mpeg21:a0160&resultsidentifier=ddd:010662268:mpeg21:a0160	https://resolver.kb.nl/resolve?urn=ddd:010662268:mpeg21:a0160
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&sortfield=date&coll=ddd&identifier=ddd:010662510:mpeg21:a0196&resultsidentifier=ddd:010662510:mpeg21:a0196	https://resolver.kb.nl/resolve?urn=ddd:010662510:mpeg21:a0196
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28emmer+hochheimer%29&cql%5B%5D=%28date+_gte_+%2224-08-1934%22%29&cql%5B%5D=%28date+_lte_+%2224-08-1934%22%29&facets%5Btype%5D%5B%5D=familiebericht&redirect=true&identifier=ddd:010662883:mpeg21:a0164&resultsidentifier=ddd:010662883:mpeg21:a0164	https://resolver.kb.nl/resolve?urn=ddd:010662883:mpeg21:a0164
+https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28date+_gte_+%2201-01-1934%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1934%22%29&query=%22alarmeering+van+de+politie%22+%22stelsel+thans%22&coll=ddd&identifier=ddd:010663153:mpeg21:a0290&resultsidentifier=ddd:010663153:mpeg21:a0290	https://resolver.kb.nl/resolve?urn=ddd:010663153:mpeg21:a0290
+https://www.delpher.nl/nl/kranten/view?query=Vroom+en+Dreesmann+'s-Hertogenbosch&coll=ddd&identifier=ddd:010664471:mpeg21:a0005&resultsidentifier=ddd:010664471:mpeg21:a0005	https://resolver.kb.nl/resolve?urn=ddd:010664471:mpeg21:a0005
+https://www.delpher.nl/nl/kranten/view?identifier=ddd:010667698:mpeg21:a0165&coll=ddd	https://resolver.kb.nl/resolve?urn=ddd:010667698:mpeg21:a0165
+https://www.delpher.nl/nl/kranten/view?query=Bernhard&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1930-1939%7C1937%7C&page=7&maxperpage=50&sortfield=date&coll=ddd&identifier=ddd:010673383:mpeg21:a0130&resultsidentifier=ddd:010673383:mpeg21:a0130	https://resolver.kb.nl/resolve?urn=ddd:010673383:mpeg21:a0130
+https://www.delpher.nl/nl/kranten/view?query=%22prins+nicolaas%22+roemenie+oceaanvlucht&page=1&sortfield=datedesc&coll=ddd&identifier=ddd:010674066:mpeg21:a0136&resultsidentifier=ddd:010674066:mpeg21:a0136	https://resolver.kb.nl/resolve?urn=ddd:010674066:mpeg21:a0136
+https://www.delpher.nl/nl/kranten/view?%7C&page=8&sortfield=date&coll=ddd&identifier=ddd:010674224:mpeg21:a0028&resultsidentifier=ddd:010674224:mpeg21:a0028	https://resolver.kb.nl/resolve?urn=ddd:010674224:mpeg21:a0028
+https://www.delpher.nl/nl/kranten/view?%7C&page=2&sortfield=date&coll=ddd&identifier=ddd:010674706:mpeg21:a0265&resultsidentifier=ddd:010674706:mpeg21:a0265	https://resolver.kb.nl/resolve?urn=ddd:010674706:mpeg21:a0265
+https://www.delpher.nl/nl/kranten/view/index?image=ddd:010675174:mpeg21:a0126	https://resolver.kb.nl/resolve?urn=ddd:010675174:mpeg21:a0126
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28STA+SVBO%29&cql%5B%5D=%28date+_gte_+%2201-01-1964%22%29&cql%5B%5D=%28date+_lte_+%2230-06-1964%22%29&redirect=true&sortfield=date&page=1&maxperpage=50&identifier=ddd:010676139:mpeg21:a0297&resultsidentifier=ddd:010676139:mpeg21:a0297	https://resolver.kb.nl/resolve?urn=ddd:010676139:mpeg21:a0297
+https://www.delpher.nl/nl/kranten/view/index?image=ddd:010676470:mpeg21:a0361	https://resolver.kb.nl/resolve?urn=ddd:010676470:mpeg21:a0361
+https://www.delpher.nl/nl/kranten/view?query=Europabus&page=51&coll=ddd&identifier=ddd:010677173:mpeg21:a0213&resultsidentifier=ddd:010677173:mpeg21:a0213	https://resolver.kb.nl/resolve?urn=ddd:010677173:mpeg21:a0213
+https://www.delpher.nl/nl/kranten/view?query=rock+around+apeldoorn&coll=ddd&identifier=ddd:010677513:mpeg21:a0169&resultsidentifier=ddd:010677513:mpeg21:a0169	https://resolver.kb.nl/resolve?urn=ddd:010677513:mpeg21:a0169
+https://www.delpher.nl/nl/kranten/view?query=voetbaltoto+sporttotalisator&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1950-1959%7C1959%7C&page=1&coll=ddd&identifier=ddd:010678236:mpeg21:a0192&resultsidentifier=ddd:010678236:mpeg21:a0192	https://resolver.kb.nl/resolve?urn=ddd:010678236:mpeg21:a0192
+https://www.delpher.nl/nl/kranten/view?query=palingoproer&coll=ddd&page=2&identifier=ddd:010678336:mpeg21:a0105&resultsidentifier=ddd:010678336:mpeg21:a0105	https://resolver.kb.nl/resolve?urn=ddd:010678336:mpeg21:a0105
+https://www.delpher.nl/nl/kranten/view?query=%22Riegmeer''&coll=ddd&maxperpage=50&identifier=ddd:010678595:mpeg21:a0238&resultsidentifier=ddd:010678595:mpeg21:a0238	https://resolver.kb.nl/resolve?urn=ddd:010678595:mpeg21:a0238
+https://www.delpher.nl/nl/kranten/view?query=fouryo's&page=26&sortfield=date&coll=ddd&identifier=ddd:010678651:mpeg21:a0080&resultsidentifier=ddd:010678651:mpeg21:a0080	https://resolver.kb.nl/resolve?urn=ddd:010678651:mpeg21:a0080
+https://www.delpher.nl/nl/kranten/view?query=%28%22stedelijk+gymnasium%22+hilversum%29&page=1&cql%5B%5D=%28date+_gte_+%2201-01-1955%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1970%22%29&coll=ddd&identifier=ddd:010679041:mpeg21:a0243&resultsidentifier=ddd:010679041:mpeg21:a0243	https://resolver.kb.nl/resolve?urn=ddd:010679041:mpeg21:a0243
+https://www.delpher.nl/nl/kranten/view?query=van+agt+bos&coll=ddd&identifier=ddd:010682365:mpeg21:a0071&resultsidentifier=ddd:010682365:mpeg21:a0071	https://resolver.kb.nl/resolve?urn=ddd:010682365:mpeg21:a0071
+https://www.delpher.nl/nl/kranten/view?query=rock+around+apeldoorn&coll=ddd&identifier=ddd:010687236:mpeg21:a0067&resultsidentifier=ddd:010687236:mpeg21:a0067	https://resolver.kb.nl/resolve?urn=ddd:010687236:mpeg21:a0067
+https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010687880:mpeg21:a0017	https://resolver.kb.nl/resolve?urn=ddd:010687880:mpeg21:a0017
+https://www.delpher.nl/nl/kranten/view?query=avro+%22de+ooggetuige%22&coll=ddd&resultsidentifier=ddd:010688661:mpeg21:a0019&page=2&identifier=ddd:010688661:mpeg21:a0019	https://resolver.kb.nl/resolve?urn=ddd:010688661:mpeg21:a0019
+https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28date+_gte_+%2211-08-1994%22%29&cql%5B%5D=%28date+_lte_+%2213-08-1994%22%29&query=%28Nellie+Engelander&coll=ddd&redirect=true&identifier=ddd:010692067:mpeg21:a0524&resultsidentifier=ddd:010692067:mpeg21:a0524	https://resolver.kb.nl/resolve?urn=ddd:010692067:mpeg21:a0524
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28maris+rijkswaterstaat%29+and+%28+rijkswaterstaat%29&cql%5B%5D=%28date+_gte_+%2201-01-1946%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1995%22%29&redirect=true&identifier=ddd:010727992:mpeg21:a0208&resultsidentifier=ddd:010727992:mpeg21:a0208	https://resolver.kb.nl/resolve?urn=ddd:010727992:mpeg21:a0208
+https://www.delpher.nl/nl/kranten/view?query=%22Huis+in+het+Bosch%22&coll=ddd&page=1&facets%5Bperiode%5D%5B%5D=1%7C19e_eeuw%7C1800-1809%7C&sortfield=date&identifier=ddd:010732028:mpeg21:a0018&resultsidentifier=ddd:010732028:mpeg21:a0018	https://resolver.kb.nl/resolve?urn=ddd:010732028:mpeg21:a0018
+https://www.delpher.nl/nl/kranten/view?query=stofdoek&coll=ddd&page=18&resultsidentifier=ddd:010744893:mpeg21:a0154&identifier=ddd:010744893:mpeg21:a0154	https://resolver.kb.nl/resolve?urn=ddd:010744893:mpeg21:a0154
+https://www.delpher.nl/nl/kranten/view?query=%22Pierre+le+Turc*%22&page=1&sortfield=date&coll=ddd&identifier=ddd:010808642:mpeg21:a0010&resultsidentifier=ddd:010808642:mpeg21:a0010	https://resolver.kb.nl/resolve?urn=ddd:010808642:mpeg21:a0010
+https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28date+_lte_+%2215-07-1950%22%29&query=Montan+bont%C3%A9&coll=ddd&redirect=true&identifier=ddd:010851494:mpeg21:a0013&resultsidentifier=ddd:010851494:mpeg21:a0013	https://resolver.kb.nl/resolve?urn=ddd:010851494:mpeg21:a0013
+https://www.delpher.nl/nl/kranten/view?query=Elsinga+vast,&coll=ddd&identifier=ddd:010852517:mpeg21:a0092&resultsidentifier=ddd:010852517:mpeg21:a0092	https://resolver.kb.nl/resolve?urn=ddd:010852517:mpeg21:a0092
+https://www.delpher.nl/nl/kranten/view?query=Elsinga+vast,&coll=ddd&identifier=ddd:010852517:mpeg21:a0092&resultsidentifier=ddd:010852517:mpeg21:a0092	https://resolver.kb.nl/resolve?urn=ddd:010852517:mpeg21:a0092
+https://www.delpher.nl/nl/kranten/view?query=Elsinga+vast,&coll=ddd&identifier=ddd:010852517:mpeg21:a0092&resultsidentifier=ddd:010852517:mpeg21:a0092	https://resolver.kb.nl/resolve?urn=ddd:010852517:mpeg21:a0092
+https://www.delpher.nl/nl/kranten/view?%7C&page=5&sortfield=date&coll=ddd&identifier=ddd:010853920:mpeg21:a0041&resultsidentifier=ddd:010853920:mpeg21:a0041	https://resolver.kb.nl/resolve?urn=ddd:010853920:mpeg21:a0041
+https://www.delpher.nl/nl/kranten/view?query=wilhelm+aloys+bos&page=1&coll=ddd&identifier=ddd:010860035:mpeg21:a0002&resultsidentifier=ddd:010860035:mpeg21:a0002	https://resolver.kb.nl/resolve?urn=ddd:010860035:mpeg21:a0002
+https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010869520:mpeg21:a0092	https://resolver.kb.nl/resolve?urn=ddd:010869520:mpeg21:a0092
+https://www.delpher.nl/nl/kranten/view?query=%28%22stedelijk+gymnasium%22+hilversum%29&page=3&cql%5B%5D=%28date+_gte_+%2201-01-1955%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1970%22%29&coll=ddd&identifier=ddd:010872397:mpeg21:a0058&resultsidentifier=ddd:010872397:mpeg21:a0058	https://resolver.kb.nl/resolve?urn=ddd:010872397:mpeg21:a0058
+https://www.delpher.nl/nl/kranten/view?query=rock+around+apeldoorn&coll=ddd&identifier=ddd:010889885:mpeg21:a0059&resultsidentifier=ddd:010889885:mpeg21:a0059	https://resolver.kb.nl/resolve?urn=ddd:010889885:mpeg21:a0059
+https://www.delpher.nl/nl/kranten/view?query=%22Lang+zal+hij+leven%22&coll=ddd&identifier=ddd:010923304:mpeg21:a0012&resultsidentifier=ddd:010923304:mpeg21:a0012	https://resolver.kb.nl/resolve?urn=ddd:010923304:mpeg21:a0012
+https://www.delpher.nl/nl/kranten/view?%7C19e_eeuw%7C&identifier=ddd:010924969:mpeg21:a0001&resultsidentifier=ddd:010924969:mpeg21:a0001	https://resolver.kb.nl/resolve?urn=ddd:010924969:mpeg21:a0001
+https://www.delpher.nl/nl/kranten/view/index?coll=ddd&image=ddd:010925699:mpeg21:a0004&page=1	https://resolver.kb.nl/resolve?urn=ddd:010925699:mpeg21:a0004
+https://www.delpher.nl/nl/kranten/view?query=Horst&coll=ddd&maxperpage=50&page=2&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1930-1939%7C1937%7C&sortfield=date&identifier=ddd:010934727:mpeg21:a0188&resultsidentifier=ddd:010934727:mpeg21:a0188	https://resolver.kb.nl/resolve?urn=ddd:010934727:mpeg21:a0188
+https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010939692:mpeg21:a0198	https://resolver.kb.nl/resolve?urn=ddd:010939692:mpeg21:a0198
+https://www.delpher.nl/nl/kranten/view?query=%22Broek+op+Langendijk%22+langedijk&facets%5Bperiode%5D%5B%5D=1%7C20e_eeuw%7C1940-1949%7C&page=1&coll=ddd&identifier=ddd:010944543:mpeg21:a0056&resultsidentifier=ddd:010944543:mpeg21:a0056	https://resolver.kb.nl/resolve?urn=ddd:010944543:mpeg21:a0056
+https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28date+_gte_+%2201-01-1986%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1986%22%29&query=Bof+Mazelen+Rodehond&coll=ddd&sortfield=date&redirect=true&resultsidentifier=ddd:010948752:mpeg21:a0207&identifier=ddd:010948752:mpeg21:a0207	https://resolver.kb.nl/resolve?urn=ddd:010948752:mpeg21:a0207
+https://www.delpher.nl/nl/kranten/view?query=%28Honkbal+Hoofdklasse%29&facets%5Bspatial%5D%5B%5D=Landelijk&page=56&maxperpage=50&sortfield=date&cql%5B%5D=%28date+_gte_+%2201-01-1922%22%29&coll=ddd&identifier=ddd:010949135:mpeg21:a0393&resultsidentifier=ddd:010949135:mpeg21:a0393	https://resolver.kb.nl/resolve?urn=ddd:010949135:mpeg21:a0393
+https://www.delpher.nl/nl/kranten/view?identifier=ddd:010950278:mpeg21:a0112&coll=ddd	https://resolver.kb.nl/resolve?urn=ddd:010950278:mpeg21:a0112
+https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010952057:mpeg21:a0143	https://resolver.kb.nl/resolve?urn=ddd:010952057:mpeg21:a0143
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=Wijnandts&cql%5B%5D=%28date+_gte_+%2223-12-1957%22%29&cql%5B%5D=%28date+_lte_+%2231-01-1958%22%29&redirect=true&sortfield=datedesc&identifier=ddd:010953013:mpeg21:a0069&resultsidentifier=ddd:010953013:mpeg21:a0069	https://resolver.kb.nl/resolve?urn=ddd:010953013:mpeg21:a0069
+https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010953273:mpeg21:a0091	https://resolver.kb.nl/resolve?urn=ddd:010953273:mpeg21:a0091
+https://www.delpher.nl/nl/kranten/view?query=les+trois+tulipes&coll=ddd&identifier=ddd:010953525:mpeg21:a0260&resultsidentifier=ddd:010953525:mpeg21:a0260	https://resolver.kb.nl/resolve?urn=ddd:010953525:mpeg21:a0260
+https://www.delpher.nl/nl/kranten/view?query=avro+%22de+ooggetuige%22&coll=ddd&identifier=ddd:010953635:mpeg21:a0193&resultsidentifier=ddd:010953635:mpeg21:a0193	https://resolver.kb.nl/resolve?urn=ddd:010953635:mpeg21:a0193
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28maris%29+and+%28+academische+raad%29&cql%5B%5D=%28date+_gte_+%2201-01-1961%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1970%22%29&redirect=true&identifier=ddd:010956248:mpeg21:a0211&resultsidentifier=ddd:010956248:mpeg21:a0211	https://resolver.kb.nl/resolve?urn=ddd:010956248:mpeg21:a0211
+https://www.delpher.nl/nl/kranten/view/index?image=ddd:010956717:mpeg21:a0470	https://resolver.kb.nl/resolve?urn=ddd:010956717:mpeg21:a0470
+https://www.delpher.nl/nl/kranten/view?query=deense+rode+kruis+henrik&page=1&coll=ddd&identifier=ddd:010956850:mpeg21:a0242&resultsidentifier=ddd:010956850:mpeg21:a0242	https://resolver.kb.nl/resolve?urn=ddd:010956850:mpeg21:a0242
+https://www.delpher.nl/nl/kranten/view/index?query=Brewster+McCloud&coll=ddd&image=ddd:010957407:mpeg21:a0152	https://resolver.kb.nl/resolve?urn=ddd:010957407:mpeg21:a0152
+https://www.delpher.nl/nl/kranten/view?query=%22campus+crusade%22+uitdaging&coll=ddd&identifier=ddd:010957516:mpeg21:a0175&resultsidentifier=ddd:010957516:mpeg21:a0175	https://resolver.kb.nl/resolve?urn=ddd:010957516:mpeg21:a0175
+https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28date+_gte_+%2201-01-1973%22%29&cql%5B%5D=%28date+_lte_+%2201-01-1978%22%29&query=%28barbarakerk+rotterdam%29&coll=ddd&redirect=true&identifier=ddd:010958028:mpeg21:a0219&resultsidentifier=ddd:010958028:mpeg21:a0219	https://resolver.kb.nl/resolve?urn=ddd:010958028:mpeg21:a0219
+https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28date+_gte_+%2201-01-1973%22%29&cql%5B%5D=%28date+_lte_+%2201-01-1978%22%29&query=%28barbarakerk+rotterdam%29&coll=ddd&redirect=true&identifier=ddd:010958697:mpeg21:a0159&resultsidentifier=ddd:010958697:mpeg21:a0159	https://resolver.kb.nl/resolve?urn=ddd:010958697:mpeg21:a0159
+https://www.delpher.nl/nl/kranten/view?query=%28Film+Wan+Pipel:+succes,+klappen+en+dreigbrieven%29&facets%5Btype%5D%5B%5D=artikel&page=1&sortfield=papertitle&cql%5B%5D=%28date+_gte_+%2214-08-1976%22%29&cql%5B%5D=%28date+_lte_+%2214-08-1976%22%29&coll=ddd&redirect=true&identifier=ddd:010959308:mpeg21:a0156&resultsidentifier=ddd:010959308:mpeg21:a0156%7D	https://resolver.kb.nl/resolve?urn=ddd:010959308:mpeg21:a0156
+https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28date+_gte_+%2201-01-1973%22%29&cql%5B%5D=%28date+_lte_+%2201-01-1978%22%29&query=%28barbarakerk+rotterdam%29&coll=ddd&redirect=true&identifier=ddd:010959434:mpeg21:a0098&resultsidentifier=ddd:010959434:mpeg21:a0098	https://resolver.kb.nl/resolve?urn=ddd:010959434:mpeg21:a0098
+https://www.delpher.nl/nl/kranten/view?query=%28barbarakerk+rotterdam%29&page=1&cql%5B%5D=%28date+_gte_+%2201-01-1970%22%29&cql%5B%5D=%28date+_lte_+%2201-01-2000%22%29&coll=ddd&redirect=true&maxperpage=50&identifier=ddd:010959958:mpeg21:a0222&resultsidentifier=ddd:010959958:mpeg21:a0222	https://resolver.kb.nl/resolve?urn=ddd:010959958:mpeg21:a0222
+https://www.delpher.nl/nl/kranten/view?query=%28barbarakerk+rotterdam%29&page=1&cql%5B%5D=%28date+_gte_+%2201-01-1970%22%29&cql%5B%5D=%28date+_lte_+%2201-01-2000%22%29&coll=ddd&redirect=true&maxperpage=50&identifier=ddd:010959958:mpeg21:a0222&resultsidentifier=ddd:010959958:mpeg21:a0222	https://resolver.kb.nl/resolve?urn=ddd:010959958:mpeg21:a0222
+https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28date+_gte_+%2218-06-1980%22%29&cql%5B%5D=%28date+_lte_+%2218-06-1980%22%29&query=korput+buitenspel&coll=ddd&redirect=true&identifier=ddd:010960565:mpeg21:a0365&resultsidentifier=ddd:010960565:mpeg21:a0365	https://resolver.kb.nl/resolve?urn=ddd:010960565:mpeg21:a0365
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28Led+Zeppelin%29&cql%5B%5D=%28date+_gte_+%2221-06-1980%22%29&cql%5B%5D=%28date+_lte_+%2223-06-1980%22%29&redirect=true&resultsidentifier=ddd:010960569:mpeg21:a0146&identifier=ddd:010960569:mpeg21:a0146	https://resolver.kb.nl/resolve?urn=ddd:010960569:mpeg21:a0146
+https://www.delpher.nl/nl/kranten/view?query=de+Nederlandse+Bob+Dylan+Armand&page=1&coll=ddd&identifier=ddd:010961737:mpeg21:a0465&resultsidentifier=ddd:010961737:mpeg21:a0465	https://resolver.kb.nl/resolve?urn=ddd:010961737:mpeg21:a0465
+https://www.delpher.nl/nl/kranten/view?query=havertong+harto's&coll=ddd&page=1&facets%5Bperiode%5D%5B%5D=0%7C20e_eeuw%7C&identifier=ddd:010961743:mpeg21:a0408&resultsidentifier=ddd:010961743:mpeg21:a0408	https://resolver.kb.nl/resolve?urn=ddd:010961743:mpeg21:a0408
+https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010962170:mpeg21:a0151	https://resolver.kb.nl/resolve?urn=ddd:010962170:mpeg21:a0151
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=Haldan&cql%5B%5D=%28date+_gte_+%2201-01-1988%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1988%22%29&facets%5Btype%5D%5B%5D=artikel&facets%5Btype%5D%5B%5D=illustratie+met+onderschrift&facets%5Bspatial%5D%5B%5D=Landelijk&facets%5Bspatial%5D%5B%5D=Regionaal%7Clokaal&redirect=true&resultsidentifier=ddd:010962706:mpeg21:a0522&page=1&maxperpage=50&sortfield=date&identifier=ddd:010962706:mpeg21:a0522///Het	https://resolver.kb.nl/resolve?urn=ddd:010962706:mpeg21:a0522
+https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28date+_gte_+%2201-01-1618%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1995%22%29&query='Eeuwige+vrije+jongen'+lanceert+platenlabel&coll=ddd&identifier=ddd:010963566:mpeg21:a0291&resultsidentifier=ddd:010963566:mpeg21:a0291	https://resolver.kb.nl/resolve?urn=ddd:010963566:mpeg21:a0291
+https://www.delpher.nl/nl/kranten/view?query=steenberghe-engeringh&page=8&cql%5B%5D=%28date+_gte_+%2201-01-1911%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1952%22%29&coll=ddd&redirect=true&identifier=ddd:010967754:mpeg21:a0007&resultsidentifier=ddd:010967754:mpeg21:a0007	https://resolver.kb.nl/resolve?urn=ddd:010967754:mpeg21:a0007
+https://www.delpher.nl/nl/kranten/view%7C&page=4&sortfield=date&coll=ddd&identifier=ddd:010970512:mpeg21:a0179&resultsidentifier=ddd:010970512:mpeg21:a0179	https://resolver.kb.nl/resolve?urn=ddd:010970512:mpeg21:a0179
+https://www.delpher.nl/nl/kranten/view%7C&page=4&sortfield=date&coll=ddd&identifier=ddd:010970512:mpeg21:a0179&resultsidentifier=ddd:010970512:mpeg21:a0179	https://resolver.kb.nl/resolve?urn=ddd:010970512:mpeg21:a0179
+https://www.delpher.nl/nl/kranten/view?%7C&page=2&sortfield=date&coll=ddd&identifier=ddd:010971023:mpeg21:a0161&resultsidentifier=ddd:010971023:mpeg21:a0161	https://resolver.kb.nl/resolve?urn=ddd:010971023:mpeg21:a0161
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&sortfield=date&coll=ddd&identifier=ddd:010971067:mpeg21:a0202&resultsidentifier=ddd:010971067:mpeg21:a0202	https://resolver.kb.nl/resolve?urn=ddd:010971067:mpeg21:a0202
+https://www.delpher.nl/nl/kranten/view/index?image=ddd:010974513:mpeg21:a0121	https://resolver.kb.nl/resolve?urn=ddd:010974513:mpeg21:a0121
+https://www.delpher.nl/nl/kranten/view?query=Willem+II&coll=ddd&page=1&facets%5Bperiode%5D%5B%5D=2%7C19e_eeuw%7C1840-1849%7C1840%7C&maxperpage=50&identifier=ddd:010978859:mpeg21:a0021&resultsidentifier=ddd:010978859:mpeg21:a0021	https://resolver.kb.nl/resolve?urn=ddd:010978859:mpeg21:a0021
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&identifier=ddd:010980656:mpeg21:a0006&resultsidentifier=ddd:010980656:mpeg21:a0006	https://resolver.kb.nl/resolve?urn=ddd:010980656:mpeg21:a0006
+https://www.delpher.nl/nl/kranten/view?query=suikerspin&facets%5Bperiode%5D%5B%5D=1%7C20e_eeuw%7C1930-1939%7C&page=1&coll=ddd&maxperpage=10&identifier=ddd:010985683:mpeg21:a0073&resultsidentifier=ddd:010985683:mpeg21:a0073	https://resolver.kb.nl/resolve?urn=ddd:010985683:mpeg21:a0073
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&coll=ddd&identifier=ddd:010986774:mpeg21:a0057&resultsidentifier=ddd:010986774:mpeg21:a0057	https://resolver.kb.nl/resolve?urn=ddd:010986774:mpeg21:a0057
+https://www.delpher.nl/nl/kranten/view/index?image=ddd:010990739:mpeg21:a0086	https://resolver.kb.nl/resolve?urn=ddd:010990739:mpeg21:a0086
+https://www.delpher.nl/nl/kranten/view?query=willem+ruis&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1980-1989%7C1986%7C&page=22&sortfield=date&coll=ddd&identifier=ddd:011000613:mpeg21:a0014&resultsidentifier=ddd:011000613:mpeg21:a0014	https://resolver.kb.nl/resolve?urn=ddd:011000613:mpeg21:a0014
+https://www.delpher.nl/nl/kranten/view/index?coll=ddd&image=ddd:011011698:mpeg21:a0195	https://resolver.kb.nl/resolve?urn=ddd:011011698:mpeg21:a0195
+https://www.delpher.nl/nl/kranten/view?query=Groningen-stad&facets%5Bperiode%5D%5B%5D=0%7C20e_eeuw%7C&facets%5Btype%5D%5B%5D=illustratie+met+onderschrift&page=1&coll=ddd&identifier=ddd:011013839:mpeg21:a0331&resultsidentifier=ddd:011013839:mpeg21:a0331	https://resolver.kb.nl/resolve?urn=ddd:011013839:mpeg21:a0331
+https://www.delpher.nl/nl/kranten/view/index?image=ddd:011015767:mpeg21:a0233	https://resolver.kb.nl/resolve?urn=ddd:011015767:mpeg21:a0233
+https://www.delpher.nl/nl/kranten/view?coll=ddd&resultsidentifier=ddd:011016256:mpeg21:a0265&identifier=ddd:011016256:mpeg21:a0265&cql%5B%5D=%28date+_gte_+%2209-01-1972%22%29&cql%5B%5D=%28date+_lte_+%2213-01-1972%22%29&objectsearch=Ferreira&query=%28Veendam,+Volendam%29	https://resolver.kb.nl/resolve?urn=ddd:011016256:mpeg21:a0265
+https://www.delpher.nl/nl/kranten/view?query=%22willy+kreuz%22&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1970-1979%7C1972%7C&page=2&sortfield=date&coll=ddd&identifier=ddd:011016363:mpeg21:a0339&resultsidentifier=ddd:011016363:mpeg21:a0339%5C	https://resolver.kb.nl/resolve?urn=ddd:011016363:mpeg21:a0339
+https://www.delpher.nl/nl/kranten/view?query=%22Riegmeer''&page=1&maxperpage=50&coll=ddd&identifier=ddd:011017098:mpeg21:a0317&resultsidentifier=ddd:011017098:mpeg21:a0317	https://resolver.kb.nl/resolve?urn=ddd:011017098:mpeg21:a0317
+https://www.delpher.nl/nl/kranten/view?query=Groningen-stad&facets%5Bperiode%5D%5B%5D=0%7C20e_eeuw%7C&facets%5Btype%5D%5B%5D=illustratie+met+onderschrift&page=1&coll=ddd&identifier=ddd:011017332:mpeg21:a0010&resultsidentifier=ddd:011017332:mpeg21:a0010	https://resolver.kb.nl/resolve?urn=ddd:011017332:mpeg21:a0010
+https://www.delpher.nl/nl/kranten/view?query=flits+rensenbrink&page=1&cql%5B%5D=%28date+_gte_+%2225-06-1978%22%29&cql%5B%5D=%28date+_lte_+%2226-06-1978%22%29&coll=ddd&redirect=true&identifier=ddd:011018197:mpeg21:a0264&resultsidentifier=ddd:011018197:mpeg21:a0264	https://resolver.kb.nl/resolve?urn=ddd:011018197:mpeg21:a0264
+https://www.delpher.nl/nl/kranten/view?query=%22willy+kreuz%22&coll=ddd&page=1&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1970-1979%7C1978%7C&identifier=ddd:011018205:mpeg21:a0274&resultsidentifier=ddd:011018205:mpeg21:a0274%5C	https://resolver.kb.nl/resolve?urn=ddd:011018205:mpeg21:a0274
+https://www.delpher.nl/nl/kranten/view?query=+%22talamini%22+ital&coll=ddd&maxperpage=10&resultsidentifier=ddd:011018422:mpeg21:a0278&identifier=ddd:011018422:mpeg21:a0278	https://resolver.kb.nl/resolve?urn=ddd:011018422:mpeg21:a0278
+https://www.delpher.nl/nl/kranten/view?query=talamini+vereniging&page=1&coll=ddd&identifier=ddd:011019116:mpeg21:a0423&resultsidentifier=ddd:011019116:mpeg21:a0423	https://resolver.kb.nl/resolve?urn=ddd:011019116:mpeg21:a0423
+https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:011019183:mpeg21:p001&page=1&date=08-12-1980&viewmode=geboortedag&index=2	https://resolver.kb.nl/resolve?urn=ddd:011019183:mpeg21:p001
+https://www.delpher.nl/nl/kranten/view?query=Renoir+Sotheby's&coll=ddd&identifier=ddd:011019342:mpeg21:a0386&resultsidentifier=ddd:011019342:mpeg21:a0386	https://resolver.kb.nl/resolve?urn=ddd:011019342:mpeg21:a0386
+https://www.delpher.nl/nl/kranten/view?query=%22Riegmeer''&page=1&maxperpage=50&coll=ddd&identifier=ddd:011019557:mpeg21:a0364&resultsidentifier=ddd:011019557:mpeg21:a0364	https://resolver.kb.nl/resolve?urn=ddd:011019557:mpeg21:a0364
+https://www.delpher.nl/nl/kranten/view?query=muntendam+verenigingsgebouw+Hervormde&coll=ddd&identifier=ddd:011020022:mpeg21:a0228&resultsidentifier=ddd:011020022:mpeg21:a0228	https://resolver.kb.nl/resolve?urn=ddd:011020022:mpeg21:a0228
+https://www.delpher.nl/nl/kranten/view?query=Groningen-stad&facets%5Btype%5D%5B%5D=familiebericht&page=1&coll=ddd&identifier=ddd:011020145:mpeg21:a0256&resultsidentifier=ddd:011020145:mpeg21:a0256	https://resolver.kb.nl/resolve?urn=ddd:011020145:mpeg21:a0256
+https://www.delpher.nl/nl/kranten/view?query=%22alfonso+talamini%22&coll=ddd&identifier=ddd:011020292:mpeg21:a0237&resultsidentifier=ddd:011020292:mpeg21:a0237	https://resolver.kb.nl/resolve?urn=ddd:011020292:mpeg21:a0237
+https://www.delpher.nl/nl/kranten/view?query=talamini+vereniging&coll=ddd&identifier=ddd:011020292:mpeg21:a0237&resultsidentifier=ddd:011020292:mpeg21:a0237	https://resolver.kb.nl/resolve?urn=ddd:011020292:mpeg21:a0237
+https://www.delpher.nl/nl/kranten/view?identifier=ddd:011024621:mpeg21:a0010&coll=ddd	https://resolver.kb.nl/resolve?urn=ddd:011024621:mpeg21:a0010
+https://www.delpher.nl/nl/kranten/view/index?image=ddd:011035827:mpeg21:a0114	https://resolver.kb.nl/resolve?urn=ddd:011035827:mpeg21:a0114
+https://www.delpher.nl/nl/kranten/view?ddd&facets%7C&identifier=ddd:011060433:mpeg21:a0010&resultsidentifier=ddd:011060433:mpeg21:a0010	https://resolver.kb.nl/resolve?urn=ddd:011060433:mpeg21:a0010
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28baron+rosenthal+portugal%29&cql%5B%5D=%28date+_gte_+%2201-01-1884%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1884%22%29&redirect=true&identifier=ddd:011068548:mpeg21:a0011&resultsidentifier=ddd:011068548:mpeg21:a0011	https://resolver.kb.nl/resolve?urn=ddd:011068548:mpeg21:a0011
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28baron+rosenthal+portugal%29&cql%5B%5D=%28date+_gte_+%2201-01-1884%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1884%22%29&redirect=true&identifier=ddd:011068548:mpeg21:a0011&resultsidentifier=ddd:011068548:mpeg21:a0011	https://resolver.kb.nl/resolve?urn=ddd:011068548:mpeg21:a0011
+https://www.delpher.nl/nl/kranten/view?query=%22Spaanschen+bok%22&coll=ddd&identifier=ddd:011071042:mpeg21:a0040&resultsidentifier=ddd:011071042:mpeg21:a0040	https://resolver.kb.nl/resolve?urn=ddd:011071042:mpeg21:a0040
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&coll=ddd&identifier=ddd:011072158:mpeg21:a0118&resultsidentifier=ddd:011072158:mpeg21:a0118	https://resolver.kb.nl/resolve?urn=ddd:011072158:mpeg21:a0118
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&sortfield=date&coll=ddd&identifier=ddd:011074105:mpeg21:a0079&resultsidentifier=ddd:011074105:mpeg21:a0079	https://resolver.kb.nl/resolve?urn=ddd:011074105:mpeg21:a0079
+https://www.delpher.nl/nl/kranten/view?%7C&page=2&sortfield=date&coll=ddd&identifier=ddd:011116601:mpeg21:a0072&resultsidentifier=ddd:011116601:mpeg21:a0072	https://resolver.kb.nl/resolve?urn=ddd:011116601:mpeg21:a0072
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&sortfield=date&coll=ddd&identifier=ddd:011117184:mpeg21:a0138&resultsidentifier=ddd:011117184:mpeg21:a0138	https://resolver.kb.nl/resolve?urn=ddd:011117184:mpeg21:a0138
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&sortfield=date&coll=ddd&identifier=ddd:011117224:mpeg21:a0048&resultsidentifier=ddd:011117224:mpeg21:a0048	https://resolver.kb.nl/resolve?urn=ddd:011117224:mpeg21:a0048
+https://www.delpher.nl/nl/kranten/view?query=Vroom+en+Dreesmann+'s+Hertogenbosch&facets=2%7C20e_eeuw%7C1930-1939%7C1939%7C&page=1&maxperpage=50&coll=ddd&identifier=ddd:011121088:mpeg21:a0224&resultsidentifier=ddd:011121088:mpeg21:a0224	https://resolver.kb.nl/resolve?urn=ddd:011121088:mpeg21:a0224
+https://www.delpher.nl/nl/kranten/view?query=frankfort+tichelaar+haarlem&coll=ddd&page=1&sortfield=datedesc&maxperpage=50&identifier=ddd:011130851:mpeg21:a0057&resultsidentifier=ddd:011130851:mpeg21:a0057	https://resolver.kb.nl/resolve?urn=ddd:011130851:mpeg21:a0057
+https://www.delpher.nl/nl/kranten/view?query=%22frankfort-tichelaar%22&coll=ddd&identifier=ddd:011130851:mpeg21:a0058&resultsidentifier=ddd:011130851:mpeg21:a0058	https://resolver.kb.nl/resolve?urn=ddd:011130851:mpeg21:a0058
+https://www.delpher.nl/nl/kranten/view?query=N.V.+Montan+&page=5&cql%5B%5D=%28date+_gte_+%2201-01-1940%22%29&coll=ddd&redirect=true&identifier=ddd:011132727:mpeg21:a0040&resultsidentifier=ddd:011132727:mpeg21:a0040	https://resolver.kb.nl/resolve?urn=ddd:011132727:mpeg21:a0040
+https://www.delpher.nl/nl/kranten/view?query=Ben+Ali+Libi+&coll=ddd&page=1&sortfield=date&identifier=ddd:011151007:mpeg21:a0004&resultsidentifier=ddd:011151007:mpeg21:a0004	https://resolver.kb.nl/resolve?urn=ddd:011151007:mpeg21:a0004
+https://www.delpher.nl/nl/kranten/view?query=palingoproer&coll=ddd&identifier=ddd:011153287:mpeg21:a0102&resultsidentifier=ddd:011153287:mpeg21:a0102	https://resolver.kb.nl/resolve?urn=ddd:011153287:mpeg21:a0102
+https://www.delpher.nl/nl/kranten/view/index?image=ddd:011167973:mpeg21:a0029	https://resolver.kb.nl/resolve?urn=ddd:011167973:mpeg21:a0029
+https://www.delpher.nl/nl/kranten/view?query=%28van+karnebeek%29&facets%5Btype%5D%5B%5D=artikel&page=4&cql%5B%5D=%28date+_gte_+%2201-03-1927%22%29&cql%5B%5D=%28date+_lte_+%2231-03-1927%22%29&coll=ddd&redirect=true&identifier=ddd:011169195:mpeg21:a0001&resultsidentifier=ddd:011169195:mpeg21:a0001	https://resolver.kb.nl/resolve?urn=ddd:011169195:mpeg21:a0001
+https://www.delpher.nl/nl/kranten/view?query=automatiseering+graveland&coll=ddd&identifier=ddd:011171443:mpeg21:a0001&resultsidentifier=ddd:011171443:mpeg21:a0001	https://resolver.kb.nl/resolve?urn=ddd:011171443:mpeg21:a0001
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&sortfield=date&coll=ddd&identifier=ddd:011171493:mpeg21:a0141&resultsidentifier=ddd:011171493:mpeg21:a0141	https://resolver.kb.nl/resolve?urn=ddd:011171493:mpeg21:a0141
+https://www.delpher.nl/nl/kranten/view?%7C&page=3&sortfield=date&coll=ddd&identifier=ddd:011171545:mpeg21:a0149&resultsidentifier=ddd:011171545:mpeg21:a0149	https://resolver.kb.nl/resolve?urn=ddd:011171545:mpeg21:a0149
+https://www.delpher.nl/nl/kranten/view?query=automatiseering+graveland&coll=ddd&identifier=ddd:011171682:mpeg21:a0009&resultsidentifier=ddd:011171682:mpeg21:a0009	https://resolver.kb.nl/resolve?urn=ddd:011171682:mpeg21:a0009
+https://www.delpher.nl/nl/kranten/view?query=automatiseering+kortenhoef&coll=ddd&identifier=ddd:011171970:mpeg21:a0140&resultsidentifier=ddd:011171970:mpeg21:a0140	https://resolver.kb.nl/resolve?urn=ddd:011171970:mpeg21:a0140
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&sortfield=date&coll=ddd&identifier=ddd:011179862:mpeg21:a0007&resultsidentifier=ddd:011179862:mpeg21:a0007	https://resolver.kb.nl/resolve?urn=ddd:011179862:mpeg21:a0007
+https://www.delpher.nl/nl/kranten/view?query=Peinture+Bogaerts&coll=ddd&facets%5Bperiode%5D%5B%5D=0%7C19e_eeuw%7C&page=6&resultsidentifier=ddd:011180423:mpeg21:a0043&identifier=ddd:011180423:mpeg21:a0043	https://resolver.kb.nl/resolve?urn=ddd:011180423:mpeg21:a0043
+https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28date+_gte_+%2214-02-1979%22%29&facets%5Bspatial%5D%5B%5D=Suriname&query=%28van+ling%29&coll=ddd&redirect=true&page=1&identifier=ddd:011187806:mpeg21:a0006&resultsidentifier=ddd:011187806:mpeg21:a0006	https://resolver.kb.nl/resolve?urn=ddd:011187806:mpeg21:a0006
+https://www.delpher.nl/nl/kranten/view?query=dufour+colditz&page=1&cql%5B%5D=%28date+_gte_+%2201-01-1946%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1995%22%29&coll=ddd&redirect=true&identifier=ddd:011198408:mpeg21:a0556&resultsidentifier=ddd:011198408:mpeg21:a0556	https://resolver.kb.nl/resolve?urn=ddd:011198408:mpeg21:a0556
+https://www.delpher.nl/nl/kranten/view?query=%22Vorster+Kapel%22&page=1&coll=ddd&identifier=ddd:011198803:mpeg21:a0146&resultsidentifier=ddd:011198803:mpeg21:a0146	https://resolver.kb.nl/resolve?urn=ddd:011198803:mpeg21:a0146
+https://www.delpher.nl/nl/kranten/view?query=Brink+ajax&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1970-1979%7C1978%7C&page=1&sortfield=datedesc&coll=ddd&identifier=ddd:011199404:mpeg21:a0119&resultsidentifier=ddd:011199404:mpeg21:a0119	https://resolver.kb.nl/resolve?urn=ddd:011199404:mpeg21:a0119
+https://www.delpher.nl/nl/kranten/view?query=wilhelm+aloys+bos&page=1&coll=ddd&identifier=ddd:011200244:mpeg21:a0088&resultsidentifier=ddd:011200244:mpeg21:a0088	https://resolver.kb.nl/resolve?urn=ddd:011200244:mpeg21:a0088
+https://www.delpher.nl/nl/kranten/view?query=wilhelm+aloys+bos&coll=ddd&identifier=ddd:011200245:mpeg21:a0148&resultsidentifier=ddd:011200245:mpeg21:a0148	https://resolver.kb.nl/resolve?urn=ddd:011200245:mpeg21:a0148
+https://www.delpher.nl/nl/kranten/view/index?query=Chalet+Royal&coll=ddd&image=ddd:011200249:mpeg21:a0610&page=1&maxperpage=10	https://resolver.kb.nl/resolve?urn=ddd:011200249:mpeg21:a0610
+https://www.delpher.nl/nl/kranten/view/index?image=ddd:011200350:mpeg21:a0202	https://resolver.kb.nl/resolve?urn=ddd:011200350:mpeg21:a0202
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28Dik+Esser%29&cql%5B%5D=%28date+_gte_+%2201-03-1979%22%29&cql%5B%5D=%28date+_lte_+%2215-03-1979%22%29&identifier=ddd:011200462:mpeg21:a0885&resultsidentifier=ddd:011200462:mpeg21:a0885	https://resolver.kb.nl/resolve?urn=ddd:011200462:mpeg21:a0885
+https://www.delpher.nl/nl/kranten/view?query=Christelijke+Blindenbibliotheek&facets%5Btype%5D%5B%5D=artikel&page=2&sortfield=papertitle&coll=ddd&identifier=ddd:011200738:mpeg21:a1044&resultsidentifier=ddd:011200738:mpeg21:a1044	https://resolver.kb.nl/resolve?urn=ddd:011200738:mpeg21:a1044
+https://www.delpher.nl/nl/kranten/view/index?coll=ddd&image=ddd:011200809:mpeg21:a0121&page=4&maxperpage=10#image	https://resolver.kb.nl/resolve?urn=ddd:011200809:mpeg21:a0121
+https://www.delpher.nl/nl/kranten/view?query=steenberghe-engeringh&page=14&maxperpage=20&sortfield=date&cql%5B%5D=%28date+_gte_+%2201-01-1911%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1952%22%29&coll=ddd&redirect=true&identifier=ddd:011201567:mpeg21:a0075&resultsidentifier=ddd:011201567:mpeg21:a0075	https://resolver.kb.nl/resolve?urn=ddd:011201567:mpeg21:a0075
+https://www.delpher.nl/nl/kranten/view?query=steenberghe-engeringh&page=14&maxperpage=20&sortfield=date&cql%5B%5D=%28date+_gte_+%2201-01-1911%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1952%22%29&coll=ddd&redirect=true&identifier=ddd:011202541:mpeg21:a0066&resultsidentifier=ddd:011202541:mpeg21:a0066	https://resolver.kb.nl/resolve?urn=ddd:011202541:mpeg21:a0066
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=steenberghe-engeringh&cql%5B%5D=%28date+_gte_+%2201-01-1952%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1952%22%29&redirect=true&identifier=ddd:011202544:mpeg21:a0089&resultsidentifier=ddd:011202544:mpeg21:a0089	https://resolver.kb.nl/resolve?urn=ddd:011202544:mpeg21:a0089
+https://www.delpher.nl/nl/kranten/view?query=Lhoest&facets%5Bperiode%5D%5B%5D=1%7C20e_eeuw%7C1950-1959%7C&page=4&coll=ddd&identifier=ddd:011203292:mpeg21:a0231&resultsidentifier=ddd:011203292:mpeg21:a0231	https://resolver.kb.nl/resolve?urn=ddd:011203292:mpeg21:a0231
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=maigret&cql%5B%5D=%28date+_gte_+%2201-01-1981%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1981%22%29&redirect=true&sortfield=date&page=7&resultsidentifier=ddd:011205169:mpeg21:a1130&identifier=ddd:011205169:mpeg21:a1130	https://resolver.kb.nl/resolve?urn=ddd:011205169:mpeg21:a1130
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28%22Piet+Hendriks%22+Sesamstraat%29&cql%5B%5D=%28date+_gte_+%2201-01-1984%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1984%22%29&redirect=true&sortfield=date&identifier=ddd:011205742:mpeg21:a0158&resultsidentifier=ddd:011205742:mpeg21:a0158	https://resolver.kb.nl/resolve?urn=ddd:011205742:mpeg21:a0158
+https://www.delpher.nl/nl/kranten/view?query=%22Cees+den+Daas%22+%22Cees+Wolzak%22&coll=ddd&page=1&sortfield=date&identifier=ddd:011205903:mpeg21:a0887&resultsidentifier=ddd:011205903:mpeg21:a0887	https://resolver.kb.nl/resolve?urn=ddd:011205903:mpeg21:a0887
+https://www.delpher.nl/nl/kranten/viewquery=Pieter+Storms&coll=ddd&facets%5Bspatial%5D%5B%5D=Landelijk&page=1&identifier=ddd:011206077:mpeg21:a0269&resultsidentifier=ddd:011206077:mpeg21:a0269	https://resolver.kb.nl/resolve?urn=ddd:011206077:mpeg21:a0269
+https://www.delpher.nl/nl/kranten/view/index?image=ddd:011206987:mpeg21:a1124	https://resolver.kb.nl/resolve?urn=ddd:011206987:mpeg21:a1124
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28karwei+lubbers%29&cql%5B%5D=%28date+_gte_+%2201-01-1986%22%29&page=1&sortfield=date&identifier=ddd:011207169:mpeg21:a0620&resultsidentifier=ddd:011207169:mpeg21:a0620	https://resolver.kb.nl/resolve?urn=ddd:011207169:mpeg21:a0620
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28barbarakerk+rotterdam%29&cql%5B%5D=%28date+_gte_+%2201-01-1920%22%29&cql%5B%5D=%28date+_lte_+%2201-01-1960%22%29&redirect=true&page=1&maxperpage=50&identifier=ddd:011208184:mpeg21:a0156&resultsidentifier=ddd:011208184:mpeg21:a0156	https://resolver.kb.nl/resolve?urn=ddd:011208184:mpeg21:a0156
+https://www.delpher.nl/nl/kranten/view?query=avro+%22de+ooggetuige%22&coll=ddd&resultsidentifier=ddd:011232804:mpeg21:a0126&page=2&identifier=ddd:011232804:mpeg21:a0126	https://resolver.kb.nl/resolve?urn=ddd:011232804:mpeg21:a0126
+https://www.delpher.nl/nl/kranten/view?query=%22Albert's+Corner%22&&coll=ddd&identifier=ddd:011233483:mpeg21:a0115&resultsidentifier=ddd:011233483:mpeg21:a0115	https://resolver.kb.nl/resolve?urn=ddd:011233483:mpeg21:a0115
+https://www.delpher.nl/nl/kranten/view?query=%22Albert's+Corner%22&&coll=ddd&identifier=ddd:011233483:mpeg21:a0115&resultsidentifier=ddd:011233483:mpeg21:a0115	https://resolver.kb.nl/resolve?urn=ddd:011233483:mpeg21:a0115
+https://www.delpher.nl/nl/kranten/view?query=%28%22stedelijk+gymnasium%22+hilversum%29&page=1&cql%5B%5D=%28date+_gte_+%2201-01-1955%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1970%22%29&coll=ddd&identifier=ddd:011235651:mpeg21:a0114&resultsidentifier=ddd:011235651:mpeg21:a0114	https://resolver.kb.nl/resolve?urn=ddd:011235651:mpeg21:a0114
+https://www.delpher.nl/nl/kranten/view?query=Ferdinand+von+Bismarck&coll=ddd&identifier=ddd:011237916:mpeg21:a0072&resultsidentifier=ddd:011237916:mpeg21:a0072#info	https://resolver.kb.nl/resolve?urn=ddd:011237916:mpeg21:a0072
+https://www.delpher.nl/nl/kranten/view/index?query=straalmotorenwerkplaats&coll=ddd&image=ddd:011238394:mpeg21:a0166&page=1&maxperpage=10	https://resolver.kb.nl/resolve?urn=ddd:011238394:mpeg21:a0166
+https://www.delpher.nl/nl/kranten/view?query=Christelijke+Blindenbibliotheek&facets%5Btype%5D%5B%5D=artikel&page=3&sortfield=papertitle&coll=ddd&identifier=ddd:011238733:mpeg21:a0079&resultsidentifier=ddd:011238733:mpeg21:a0079	https://resolver.kb.nl/resolve?urn=ddd:011238733:mpeg21:a0079
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28Agneskerk+prox+Amsterdam%29&cql%5B%5D=%28date+_gte_+%2201-01-1920%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1940%22%29&redirect=true&sortfield=date&resultsidentifier=ddd:110530816:mpeg21:a0076&page=14&identifier=ddd:110530816:mpeg21:a0076	https://resolver.kb.nl/resolve?urn=ddd:110530816:mpeg21:a0076
+https://www.delpher.nl/nl/kranten/view?%7C=&identifier=ddd:110551884:mpeg21:a0030&resultsidentifier=ddd:110551884:mpeg21:a0030&coll=ddd	https://resolver.kb.nl/resolve?urn=ddd:110551884:mpeg21:a0030
+https://www.delpher.nl/nl/kranten/view?%7C&page=2&sortfield=date&coll=ddd&identifier=ddd:110569267:mpeg21:a0036&resultsidentifier=ddd:110569267:mpeg21:a0036	https://resolver.kb.nl/resolve?urn=ddd:110569267:mpeg21:a0036
+https://www.delpher.nl/nl/kranten/view?%7C&page=2&sortfield=date&coll=ddd&identifier=ddd:110569397:mpeg21:a0070&resultsidentifier=ddd:110569397:mpeg21:a0070	https://resolver.kb.nl/resolve?urn=ddd:110569397:mpeg21:a0070
+https://www.delpher.nl/nl/kranten/view?%7C&identifier=ddd:110569647:mpeg21:a0071&resultsidentifier=ddd:110569647:mpeg21:a0071	https://resolver.kb.nl/resolve?urn=ddd:110569647:mpeg21:a0071
+https://www.delpher.nl/nl/kranten/view?%7C&page=1&sortfield=date&coll=ddd&identifier=ddd:110570208:mpeg21:a0075&resultsidentifier=ddd:110570208:mpeg21:a0075	https://resolver.kb.nl/resolve?urn=ddd:110570208:mpeg21:a0075
+https://www.delpher.nl/nl/kranten/view/index?image=ddd:110570820:mpeg21:a0399	https://resolver.kb.nl/resolve?urn=ddd:110570820:mpeg21:a0399
+https://www.delpher.nl/nl/kranten/view?%7C&page=2&sortfield=date&coll=ddd&identifier=ddd:110571079:mpeg21:a0156&resultsidentifier=ddd:110571079:mpeg21:a0156	https://resolver.kb.nl/resolve?urn=ddd:110571079:mpeg21:a0156
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28Agneskerk+prox+Amsterdam%29&cql%5B%5D=%28date+_gte_+%2201-01-1920%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1940%22%29&redirect=true&sortfield=date&resultsidentifier=ddd:110571275:mpeg21:a0125&page=8&identifier=ddd:110571275:mpeg21:a0125	https://resolver.kb.nl/resolve?urn=ddd:110571275:mpeg21:a0125
+https://www.delpher.nl/nl/kranten/view?query=palingoproer&coll=ddd&identifier=ddd:110572252:mpeg21:a0149&resultsidentifier=ddd:110572252:mpeg21:a0149	https://resolver.kb.nl/resolve?urn=ddd:110572252:mpeg21:a0149
+https://www.delpher.nl/nl/kranten/view?%7C&page=6&sortfield=date&coll=ddd&identifier=ddd:110572361:mpeg21:a0038&resultsidentifier=ddd:110572361:mpeg21:a0038	https://resolver.kb.nl/resolve?urn=ddd:110572361:mpeg21:a0038
+https://www.delpher.nl/nl/kranten/view?query=automatiseering+ankeveen&coll=ddd&identifier=ddd:110577701:mpeg21:a0215&resultsidentifier=ddd:110577701:mpeg21:a0215	https://resolver.kb.nl/resolve?urn=ddd:110577701:mpeg21:a0215
+https://www.delpher.nl/nl/kranten/view?query=%22Daniel+Bernard%22&facets%5Bperiode%5D%5B%5D=1%7C20e_eeuw%7C1950-1959%7C&page=1&coll=ddd&identifier=ddd:110584775:mpeg21:a0158&resultsidentifier=ddd:110584775:mpeg21:a0158	https://resolver.kb.nl/resolve?urn=ddd:110584775:mpeg21:a0158
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=Patachou&cql%5B%5D=%28date+_gte_+%2201-01-1940%22%29&cql%5B%5D=%28date+_lte_+%2201-12-1969%22%29&redirect=true&sortfield=date&identifier=ddd:110584897:mpeg21:a0237&resultsidentifier=ddd:110584897:mpeg21:a0237	https://resolver.kb.nl/resolve?urn=ddd:110584897:mpeg21:a0237
+https://www.delpher.nl/nl/kranten/view?query=Ferdinand+von+Bismarck&coll=ddd&page=3&identifier=ddd:110590167:mpeg21:a0420&resultsidentifier=ddd:110590167:mpeg21:a0420#info	https://resolver.kb.nl/resolve?urn=ddd:110590167:mpeg21:a0420
+https://www.delpher.nl/nl/kranten/view/index?query=Chalet+Royal+ster&coll=ddd&image=ddd:110593095:mpeg21:a0890&page=1&maxperpage=10	https://resolver.kb.nl/resolve?urn=ddd:110593095:mpeg21:a0890
+https://www.delpher.nl/nl/kranten/view/index?image=ddd:110609169:mpeg21:a0976	https://resolver.kb.nl/resolve?urn=ddd:110609169:mpeg21:a0976
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=granaat&cql%5B%5D=%28date+_gte_+%2201-01-1966%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1966%22%29&cql%5B%5D=ppn+any+%28842127143%29&redirect=true&identifier=ddd:110611089:mpeg21:a0108&resultsidentifier=ddd:110611089:mpeg21:a0108	https://resolver.kb.nl/resolve?urn=ddd:110611089:mpeg21:a0108
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28van+rest%29+and+willemsorde&cql%5B%5D=%28date+_gte_+%2201-01-1942%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1995%22%29&redirect=true&identifier=ddd:110612904:mpeg21:a0046&resultsidentifier=ddd:110612904:mpeg21:a0046	https://resolver.kb.nl/resolve?urn=ddd:110612904:mpeg21:a0046
+https://www.delpher.nl/nl/kranten/view?query=kwartsz+eilandenregeling&coll=ddd&identifier=KBDDD02:000211279:mpeg21:a0001&resultsidentifier=KBDDD02:000211279:mpeg21:a0001%7C	https://resolver.kb.nl/resolve?urn=KBDDD02:000211279:mpeg21:a0001
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=maigret&cql%5B%5D=%28date+_gte_+%2201-01-1982%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1983%22%29&redirect=true&sortfield=date&resultsidentifier=KBNRC01:000027587:mpeg21:a0179&page=9&identifier=KBNRC01:000027587:mpeg21:a0179	https://resolver.kb.nl/resolve?urn=KBNRC01:000027587:mpeg21:a0179
+https://www.delpher.nl/nl/kranten/view?query=%28maris%29+and+%28+rijkswaterstaat%29&page=1&cql%5B%5D=%28date+_gte_+%2201-01-1985%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1985%22%29&coll=ddd&redirect=true&identifier=KBNRC01:000028031:mpeg21:a0032&resultsidentifier=KBNRC01:000028031:mpeg21:a0032	https://resolver.kb.nl/resolve?urn=KBNRC01:000028031:mpeg21:a0032
+https://www.delpher.nl/nl/kranten/view?query=%22hartog+blaaser%22&page=1&sortfield=datedesc&coll=ddd&identifier=KBNRC01:000028071:mpeg21:a0147&resultsidentifier=KBNRC01:000028071:mpeg21:a0147	https://resolver.kb.nl/resolve?urn=KBNRC01:000028071:mpeg21:a0147
+https://www.delpher.nl/nl/kranten/view?query=essed+alledaags+racisme&coll=ddd&page=2&identifier=KBNRC01:000028079:mpeg21:a0173&resultsidentifier=KBNRC01:000028079:mpeg21:a0173	https://resolver.kb.nl/resolve?urn=KBNRC01:000028079:mpeg21:a0173
+https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=KBNRC01:000029438:mpeg21:a0205	https://resolver.kb.nl/resolve?urn=KBNRC01:000029438:mpeg21:a0205
+https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=KBNRC01:000029572:mpeg21:a0172	https://resolver.kb.nl/resolve?urn=KBNRC01:000029572:mpeg21:a0172
+https://www.delpher.nl/nl/kranten/view?query=essed+alledaags+racisme&coll=ddd&page=3&identifier=KBNRC01:000030072:mpeg21:a0224&resultsidentifier=KBNRC01:000030072:mpeg21:a0224	https://resolver.kb.nl/resolve?urn=KBNRC01:000030072:mpeg21:a0224
+https://www.delpher.nl/nl/kranten/view?query=essed+alledaags+racisme&coll=ddd&page=2&identifier=KBNRC01:000030266:mpeg21:a0258&resultsidentifier=KBNRC01:000030266:mpeg21:a0258	https://resolver.kb.nl/resolve?urn=KBNRC01:000030266:mpeg21:a0258
+https://www.delpher.nl/nl/kranten/view?query=essed+alledaags+racisme&coll=ddd&page=2&identifier=KBNRC01:000030324:mpeg21:a0281&resultsidentifier=KBNRC01:000030324:mpeg21:a0281	https://resolver.kb.nl/resolve?urn=KBNRC01:000030324:mpeg21:a0281
+https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=KBNRC01:000030787:mpeg21:a0116&objectsearch=chorus	https://resolver.kb.nl/resolve?urn=KBNRC01:000030787:mpeg21:a0116
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28Placido+Domingo%29&cql%5B%5D=%28date+_gte_+%2201-01-1968%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1975%22%29&redirect=true&page=2&sortfield=date&identifier=KBNRC01:000031768:mpeg21:a0258&resultsidentifier=KBNRC01:000031768:mpeg21:a0258	https://resolver.kb.nl/resolve?urn=KBNRC01:000031768:mpeg21:a0258
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28Elinkwijk+SDW+beslissing%29&cql%5B%5D=%28date+_gte_+%2201-03-1974%22%29&cql%5B%5D=%28date+_lte_+%2230-06-1974%22%29&redirect=true&sortfield=datedesc&identifier=KBNRC01:000032770:mpeg21:a0163&resultsidentifier=KBNRC01:000032770:mpeg21:a0163	https://resolver.kb.nl/resolve?urn=KBNRC01:000032770:mpeg21:a0163
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28Elinkwijk+SDW+beslissing%29&cql%5B%5D=%28date+_gte_+%2201-03-1974%22%29&cql%5B%5D=%28date+_lte_+%2230-06-1974%22%29&redirect=true&sortfield=datedesc&identifier=KBNRC01:000032770:mpeg21:a0163&resultsidentifier=KBNRC01:000032770:mpeg21:a0163	https://resolver.kb.nl/resolve?urn=KBNRC01:000032770:mpeg21:a0163
+https://www.delpher.nl/nl/kranten/view?query=fouryo's&page=27&sortfield=date&coll=ddd&identifier=KBNRC01:000034585:mpeg21:a0012&resultsidentifier=KBNRC01:000034585:mpeg21:a0012	https://resolver.kb.nl/resolve?urn=KBNRC01:000034585:mpeg21:a0012
+https://www.delpher.nl/nl/kranten/view?query=Lhoest&facets%5Bperiode%5D%5B%5D=1%7C20e_eeuw%7C1960-1969%7C&page=2&coll=ddd&identifier=KBNRC01:000036078:mpeg21:a0108&resultsidentifier=KBNRC01:000036078:mpeg21:a0108	https://resolver.kb.nl/resolve?urn=KBNRC01:000036078:mpeg21:a0108
+https://www.delpher.nl/nl/kranten/view?query=%22Dirk+Roosenburg%22&coll=ddd&page=1&facets%5Bperiode%5D%5B%5D=0%7C20e_eeuw%7C&identifier=KBNRC01:000036094:mpeg21:a0123&resultsidentifier=KBNRC01:000036094:mpeg21:a0123	https://resolver.kb.nl/resolve?urn=KBNRC01:000036094:mpeg21:a0123
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28sparta+brabantia+protest%29&cql%5B%5D=%28date+_gte_+%2203-10-1954%22%29&cql%5B%5D=%28date+_lte_+%2230-11-1954%22%29&redirect=true&sortfield=date&identifier=KBNRC01:000041436:mpeg21:a0120&resultsidentifier=KBNRC01:000041436:mpeg21:a0120	https://resolver.kb.nl/resolve?urn=KBNRC01:000041436:mpeg21:a0120
+https://www.delpher.nl/nl/kranten/view?query=%22du+mee%22&coll=ddd&page=1&cql%5B%5D=%28projectcode+any+BKT-KRANTEN1+OR+projectcode+any+BKT-KRANTEN2%29&maxperpage=50&identifier=KBNRC01:000044307:mpeg21:a0119&resultsidentifier=KBNRC01:000044307:mpeg21:a0119	https://resolver.kb.nl/resolve?urn=KBNRC01:000044307:mpeg21:a0119
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28Ary+Romijn%29&cql%5B%5D=%28date+_gte_+%2201-01-1945%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1995%22%29&redirect=true&identifier=KBNRC01:000088035:mpeg21:a0136&resultsidentifier=KBNRC01:000088035:mpeg21:a0136	https://resolver.kb.nl/resolve?urn=KBNRC01:000088035:mpeg21:a0136
+https://www.delpher.nl/nl/kranten/view?query=wilhelm+aloys+bos&coll=ddd&identifier=KBNRC01:000088443:mpeg21:a0051&resultsidentifier=KBNRC01:000088443:mpeg21:a0051	https://resolver.kb.nl/resolve?urn=KBNRC01:000088443:mpeg21:a0051
+https://www.delpher.nl/nl/kranten/view?query=State*+Suriname+verkiezingen+&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1940-1949%7C1949%7C&page=13&sortfield=date&coll=ddd&identifier=KBNRC01:000091651:mpeg21:a0011&resultsidentifier=KBNRC01:000091651:mpeg21:a0011	https://resolver.kb.nl/resolve?urn=KBNRC01:000091651:mpeg21:a0011
+https://www.delpher.nl/nl/kranten/view?query=State*+Suriname+verkiezingen+&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1940-1949%7C1949%7C&page=13&sortfield=date&coll=ddd&identifier=KBNRC01:000091651:mpeg21:a0011&resultsidentifier=KBNRC01:000091651:mpeg21:a0011	https://resolver.kb.nl/resolve?urn=KBNRC01:000091651:mpeg21:a0011
+https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28projectcode+any+BKT-KRANTEN5%29&query=kurhaus+rolling+stones&coll=ddd&redirect=true&sortfield=date&page=1&identifier=KBPERS01:002812027:mpeg21:a00107&resultsidentifier=KBPERS01:002812027:mpeg21:a00107	https://resolver.kb.nl/resolve?urn=KBPERS01:002812027:mpeg21:a00107
+https://www.delpher.nl/nl/kranten/view?query=Opgelet!+Gevaar!+Langzaam+rijden,&coll=ddd&identifier=MMCODA01:000161645:mpeg21:a0070&resultsidentifier=MMCODA01:000161645:mpeg21:a0070	https://resolver.kb.nl/resolve?urn=MMCODA01:000161645:mpeg21:a0070
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=Germanicus&cql%5B%5D=%28date+_gte_+%2201-01-1946%22%29&cql%5B%5D=%28date+_lte_+%2230-06-1946%22%29&redirect=true&sortfield=date&page=2&identifier=MMDA03:000119370:mpeg21:a0034&resultsidentifier=MMDA03:000119370:mpeg21:a0034	https://resolver.kb.nl/resolve?urn=MMDA03:000119370:mpeg21:a0034
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=Germanicus&cql%5B%5D=%28date+_gte_+%2201-01-1946%22%29&cql%5B%5D=%28date+_lte_+%2230-06-1946%22%29&redirect=true&sortfield=date&page=2&identifier=MMDA03:000119370:mpeg21:a0034&resultsidentifier=MMDA03:000119370:mpeg21:a0034	https://resolver.kb.nl/resolve?urn=MMDA03:000119370:mpeg21:a0034
+https://www.delpher.nl/nl/kranten/view?query=kuik+jehova's&coll=ddd&identifier=MMDA03:000119467:mpeg21:a0023&resultsidentifier=MMDA03:000119467:mpeg21:a0023	https://resolver.kb.nl/resolve?urn=MMDA03:000119467:mpeg21:a0023
+https://www.delpher.nl/nl/kranten/view?query=jan+hayo+klimp&coll=ddd&identifier=MMDA03:000146088:mpeg21:a0030&resultsidentifier=MMDA03:000146088:mpeg21:a0030	https://resolver.kb.nl/resolve?urn=MMDA03:000146088:mpeg21:a0030
+https://www.delpher.nl/nl/kranten/view?query=Regout+&facets%5Btype%5D%5B%5D=artikel&page=15&maxperpage=50&sortfield=date&cql%5B%5D=%28date+_gte_+%2201-01-1900%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1920%22%29&coll=ddd&redirect=true&identifier=MMGARO01:000170703:mpeg21:a0010&resultsidentifier=MMGARO01:000170703:mpeg21:a0010	https://resolver.kb.nl/resolve?urn=MMGARO01:000170703:mpeg21:a0010
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%22Akkermans%22+AND+%22harmonie+eendracht%22&cql%5B%5D=%28date+_gte_+%2201-01-1922%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1943%22%29&redirect=true&identifier=MMGARO01:000176650:mpeg21:a0013&resultsidentifier=MMGARO01:000176650:mpeg21:a0013	https://resolver.kb.nl/resolve?urn=MMGARO01:000176650:mpeg21:a0013
+https://www.delpher.nl/nl/kranten/view?query=%22Nationaal+Front%22&page=4&sortfield=date&cql%5B%5D=%28date+_gte_+%2201-01-1940%22%29&cql%5B%5D=%28date+_lte_+%2231-05-1940%22%29&coll=ddd&redirect=true&identifier=MMGARO01:000179307:mpeg21:a0055&resultsidentifier=MMGARO01:000179307:mpeg21:a0055	https://resolver.kb.nl/resolve?urn=MMGARO01:000179307:mpeg21:a0055
+https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28date+_gte_+%2201-01-1940%22%29&facets%5Btype%5D%5B%5D=artikel&facets%5Btype%5D%5B%5D=illustratie+met+onderschrift&facets%5Bspatial%5D%5B%5D=Landelijk&facets%5Bspatial%5D%5B%5D=Regionaal%7Clokaal&query=Abt+Bornhem+Dirckx&coll=ddd&redirect=true&identifier=MMGARO01:000179779:mpeg21:a0021&resultsidentifier=MMGARO01:000179779:mpeg21:a0021	https://resolver.kb.nl/resolve?urn=MMGARO01:000179779:mpeg21:a0021
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28verkiezingen+Gronsveld%29&cql%5B%5D=%28date+_gte_+%2201-01-1920%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1920%22%29&redirect=true&sortfield=date&identifier=MMHCO01:000082077:mpeg21:p002&resultsidentifier=MMHCO01:000082077:mpeg21:a0002	https://resolver.kb.nl/resolve?urn=MMHCO01:000082077:mpeg21:p002
+https://www.delpher.nl/nl/kranten/view?query=Tweka&page=1&coll=ddd&identifier=MMHCO01:000086018:mpeg21:a0049	https://resolver.kb.nl/resolve?urn=MMHCO01:000086018:mpeg21:a0049
+https://www.delpher.nl/nl/kranten/view?facets%5Bperiode%5D%5B%5D=0%7C19e_eeuw%7C&query=Peinture+Bogaerts+Brussel&coll=ddd&maxperpage=10&resultsidentifier=MMKB04:000124372:mpeg21:a0005&page=2&identifier=MMKB04:000124372:mpeg21:a0005	https://resolver.kb.nl/resolve?urn=MMKB04:000124372:mpeg21:a0005
+https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28date+_gte_+%2203-07-1934%22%29&cql%5B%5D=%28date+_lte_+%2204-07-1934%22%29&query=prins+Hendrik+hartverlamming&coll=ddd&redirect=true&page=1&maxperpage=50&identifier=MMKB04:000147402:mpeg21:a0002&resultsidentifier=MMKB04:000147402:mpeg21:a0002	https://resolver.kb.nl/resolve?urn=MMKB04:000147402:mpeg21:a0002
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28barbarakerk+rotterdam%29&cql%5B%5D=%28date+_gte_+%2201-01-1920%22%29&cql%5B%5D=%28date+_lte_+%2201-01-1960%22%29&redirect=true&page=1&maxperpage=50&identifier=MMKB04:000187553:mpeg21:a0015&resultsidentifier=MMKB04:000187553:mpeg21:a0015	https://resolver.kb.nl/resolve?urn=MMKB04:000187553:mpeg21:a0015
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28barbarakerk+rotterdam%29&cql%5B%5D=%28date+_gte_+%2201-01-1920%22%29&cql%5B%5D=%28date+_lte_+%2201-01-1960%22%29&redirect=true&page=4&maxperpage=50&identifier=MMKB04:000187971:mpeg21:a0018&resultsidentifier=MMKB04:000187971:mpeg21:a0018	https://resolver.kb.nl/resolve?urn=MMKB04:000187971:mpeg21:a0018
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28barbarakerk+rotterdam%29&cql%5B%5D=%28date+_gte_+%2201-01-1920%22%29&cql%5B%5D=%28date+_lte_+%2201-01-1960%22%29&redirect=true&page=2&maxperpage=50&identifier=MMKB04:000188713:mpeg21:a0094&resultsidentifier=MMKB04:000188713:mpeg21:a0094	https://resolver.kb.nl/resolve?urn=MMKB04:000188713:mpeg21:a0094
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=hoogmade&cql%5B%5D=%28date+_gte_+%2201-01-1929%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1929%22%29&facets%5Btype%5D%5B%5D=artikel&facets%5Btype%5D%5B%5D=illustratie+met+onderschrift&redirect=true&sortfield=date&identifier=MMKB04:000197818:mpeg21:a0066&resultsidentifier=MMKB04:000197818:mpeg21:a0066	https://resolver.kb.nl/resolve?urn=MMKB04:000197818:mpeg21:a0066
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28barbarakerk+rotterdam%29&cql%5B%5D=%28date+_gte_+%2201-01-1920%22%29&cql%5B%5D=%28date+_lte_+%2201-01-1960%22%29&redirect=true&identifier=MMKB04:000198170:mpeg21:a0063&resultsidentifier=MMKB04:000198170:mpeg21:a0063	https://resolver.kb.nl/resolve?urn=MMKB04:000198170:mpeg21:a0063
+https://www.delpher.nl/nl/kranten/view?query=P.J.H.+Cuypers&coll=ddd&page=1&facets%5Bperiode%5D%5B%5D=2%7C19e_eeuw%7C1870-1879%7C1876%7C&identifier=MMKB08:000087256:mpeg21:a0004&resultsidentifier=MMKB08:000087256:mpeg21:a0004	https://resolver.kb.nl/resolve?urn=MMKB08:000087256:mpeg21:a0004
+https://www.delpher.nl/nl/kranten/view?query=%22louis+nagel%22+lanz&coll=ddd&identifier=MMKB08:000093367:mpeg21:a0047&resultsidentifier=MMKB08:000093367:mpeg21:a0047	https://resolver.kb.nl/resolve?urn=MMKB08:000093367:mpeg21:a0047
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=vloed&cql%5B%5D=%28date+_gte_+%2220-07-1905%22%29&cql%5B%5D=%28date+_lte_+%2201-01-1907%22%29&redirect=true&sortfield=date&page=1&facets%5Btype%5D%5B%5D=artikel&maxperpage=50&identifier=MMKB08:000096177:mpeg21:a0005&resultsidentifier=MMKB08:000096177:mpeg21:a0005	https://resolver.kb.nl/resolve?urn=MMKB08:000096177:mpeg21:a0005
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=cleaver&cql%5B%5D=%28date+_gte_+%2201-01-1945%22%29&cql%5B%5D=%28date+_lte_+%2201-12-1946%22%29&redirect=true&identifier=MMKB08:000110669:mpeg21:a0007&resultsidentifier=MMKB08:000110669:mpeg21:a0007	https://resolver.kb.nl/resolve?urn=MMKB08:000110669:mpeg21:a0007
+https://www.delpher.nl/nl/kranten/view?query=''Fransch-Hollandsche+Oliefabriek+Calv%C3%A9''+&facets%5Bperiode%5D%5B%5D=0%7C19e_eeuw%7C&page=1&coll=ddd&sortfield=date&identifier=MMKB08:000138141:mpeg21:a0002&resultsidentifier=MMKB08:000138141:mpeg21:a0002	https://resolver.kb.nl/resolve?urn=MMKB08:000138141:mpeg21:a0002
+https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28date+_gte_+%2212-07-1876%22%29&cql%5B%5D=%28date+_lte_+%2216-07-1876%22%29&cql%5B%5D=ppn+any+%28400915472+OR+830850090+OR+400337878%29&query=59,+is+benoemd+tot+architect+van+de+nieuwe+museumgebouwen+te+Amsterdam&coll=ddd&redirect=true&identifier=MMKB08:000148324:mpeg21:p002&resultsidentifier=MMKB08:000148324:mpeg21:a0004	https://resolver.kb.nl/resolve?urn=MMKB08:000148324:mpeg21:p002
+https://www.delpher.nl/nl/kranten/view?query=sandberg+burgemeester+goes&page=47&sortfield=date&coll=ddd&identifier=MMKB08:000182424:mpeg21:a0006&resultsidentifier=MMKB08:000182424:mpeg21:a0006	https://resolver.kb.nl/resolve?urn=MMKB08:000182424:mpeg21:a0006
+https://www.delpher.nl/nl/kranten/view?objectsearch=%28Elias+Stein%29&coll=ddd&resultsidentifier=MMKB19:000144259:mpeg21:a00006&identifier=MMKB19:000144259:mpeg21:p00004&cql%5B%5D=%28date+_gte_+%2201-01-1812%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1821%22%29&query=%28Elias+Stein%29	https://resolver.kb.nl/resolve?urn=MMKB19:000144259:mpeg21:p00004
+https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28date+_gte_+%2201-01-1940%22%29&facets%5Bspatial%5D%5B%5D=Landelijk&facets%5Bspatial%5D%5B%5D=Regionaal%7Clokaal&query=oudenbossche+harmonie&coll=ddd&redirect=true&page=2&identifier=MMNIOD05:000085677:mpeg21:a0019&resultsidentifier=MMNIOD05:000085677:mpeg21:a0019	https://resolver.kb.nl/resolve?urn=MMNIOD05:000085677:mpeg21:a0019
+https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=MMNIOD05:000124572:mpeg21:a0026&objectsearch=muysken	https://resolver.kb.nl/resolve?urn=MMNIOD05:000124572:mpeg21:a0026
+https://www.delpher.nl/nl/kranten/view?query=Ben-Ali-Libi&coll=ddd&page=1&sortfield=date&identifier=MMRANM02:000008878:mpeg21:a0012&resultsidentifier=MMRANM02:000008878:mpeg21:a0012	https://resolver.kb.nl/resolve?urn=MMRANM02:000008878:mpeg21:a0012
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28oproer+jordaan+%29&cql%5B%5D=%28date+_gte_+%2201-06-1886%22%29&cql%5B%5D=%28date+_lte_+%2231-07-1886%22%29&redirect=true&identifier=MMRHCE01:000036989:mpeg21:a0006&resultsidentifier=MMRHCE01:000036989:mpeg21:a0006	https://resolver.kb.nl/resolve?urn=MMRHCE01:000036989:mpeg21:a0006
+https://www.delpher.nl/nl/kranten/view?coll=ddd&query=%28barbarakerk+rotterdam%29&cql%5B%5D=%28date+_gte_+%2201-01-1920%22%29&cql%5B%5D=%28date+_lte_+%2201-01-1960%22%29&redirect=true&page=3&maxperpage=50&identifier=MMRHCE01:000059117:mpeg21:a0001&resultsidentifier=MMRHCE01:000059117:mpeg21:a0001	https://resolver.kb.nl/resolve?urn=MMRHCE01:000059117:mpeg21:a0001
+https://www.delpher.nl/nl/kranten/view?facets%5Bperiode%5D%5B%5D=1%7C20e_eeuw%7C1930-1939%7C&query=Rijksmuseum+voor+Volkenkunde&coll=ddd&identifier=MMSAB03:000065641:mpeg21:a0120&resultsidentifier=MMSAB03:000065641:mpeg21:a0120	https://resolver.kb.nl/resolve?urn=MMSAB03:000065641:mpeg21:a0120
+https://www.delpher.nl/nl/kranten/view?query=Peinture+Bogaerts&coll=ddd&facets%5Bperiode%5D%5B%5D=0%7C19e_eeuw%7C&page=8&resultsidentifier=MMSAEN01:000039621:mpeg21:a0014&identifier=MMSAEN01:000039621:mpeg21:a0014,	https://resolver.kb.nl/resolve?urn=MMSAEN01:000039621:mpeg21:a0014
+https://www.delpher.nl/nl/kranten/view?query=steenberghe-engeringh&page=4&maxperpage=20&sortfield=date&cql%5B%5D=%28date+_gte_+%2201-01-1911%22%29&cql%5B%5D=%28date+_lte_+%2231-12-1952%22%29&coll=ddd&redirect=true&identifier=MMWFA01:000168125:mpeg21:a00002&resultsidentifier=MMWFA01:000168125:mpeg21:a00002	https://resolver.kb.nl/resolve?urn=MMWFA01:000168125:mpeg21:a00002
+https://www.delpher.nl/nl/kranten/view?coll=ddd&sortfield=title&page=1&	https://www.delpher.nl/nl/kranten
+https://www.delpher.nl/nl/kranten/view?facets	https://www.delpher.nl/nl/kranten
+https://www.delpher.nl/nl/kranten/view?facets	https://www.delpher.nl/nl/kranten
+https://www.delpher.nl/nl/kranten/view?query=	https://www.delpher.nl/nl/kranten
+https://www.delpher.nl/nl/kranten/view?query=Europabus&page=1&coll=ddd&facets	https://www.delpher.nl/nl/kranten
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
