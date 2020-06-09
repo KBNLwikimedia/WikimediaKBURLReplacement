@@ -1,0 +1,15 @@
+Hay Kranen <hay@bykr.org>
+Thu, Apr 16, 12:23 PM
+
+Hee Olaf,
+zoals beloofd zou ik je nog wat botvoorbeelden sturen. Deze zijn allemaal gebaseerd op Pywikibot:
+
+https://www.mediawiki.org/wiki/Manual:Pywikibot
+
+Bijgevoegd wat ik destijds heb gebruikt voor het vervangen van kranten.kb.nl links naar resolver.kb.nl. ‘kbresolver.py’ is de bot die ik heb gedraaid. Deze is gebaseerd op de ReplaceBot, die standaard in Pywikibot zit. Zoals je ziet is kbresolver.py verder niet zo spannend: je voert een commando uit die zoekt naar een bepaalde string in de tekst, vervolgens parse ik de tekst, en zet ik die terug. 
+
+Het parsen doe ik in een andere library: kbresolverlib.py. Daar zitten wat reguliere expressies in die het werk opknappen. Voor het omzetten van die lelijke delpher.nl urls naar resolver urls zul je denk ik iets dergelijks moeten doen. Als ik zo snel kijk naar die links die er op WP staan lijkt me dat niet zo heel complex, volgens mij is het een kwestie van de ‘identifer’ of ‘resultsidentifier’ (het verschil zie ik even zo snel niet) uit de URL parsen en dat achter een resolver-link plakken.
+
+De code is overigens nog Python 2, maar er zit weinig specifieks in voor P2. 
+
+Oh, en een bot moet je dus altijd aanmelden, zie https://nl.wikipedia.org/wiki/Wikipedia:Bots voor instructies.
