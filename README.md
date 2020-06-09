@@ -4,7 +4,7 @@ Read [this article](stories/Making%20references%20to%20Dutch%20newspapers%20in%2
 
 * Folder *[ScriptsMerlijnVanDeen](ScriptsMerlijnVanDeen)*
   - The technique for replacing URLs is detailed in [this blogpost](https://web.archive.org/web/20200522204706/https://merlijn.vandeen.nl/2015/kb-replace-dead-links.html) by Merlijn van Deen. See the 4 screenshot below.
-   - The Python scripts and [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) commands are available [from this folder](ScriptsMerlijnVanDeen/scripts)
+   - The Python scripts and [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) commands for this method are available [from this folder](ScriptsMerlijnVanDeen/scripts)
    
 <kbd><img src="stories/images/blogMvD_part1.jpg" align="left" width="150"/></kbd>
 <kbd><img src="stories/images/blogMvD_part2.jpg" align="left" width="150"/></kbd>
