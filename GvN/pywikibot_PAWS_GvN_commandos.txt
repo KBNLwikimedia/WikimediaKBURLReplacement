@@ -1,0 +1,10 @@
+https://www.mediawiki.org/wiki/Manual:Pywikibot/PAWS
+https://www.mediawiki.org/wiki/Manual:Pywikibot/PAWS#A_real_script_example
+
+@PAWS:~$ pwb.py listpages -lang:nl -weblink:"geheugenvannederland.nl" -ns:0 -grep:"geheugenvannederland.nl"
+
+@PAWS:~$ pwb.py replace -lang:nl -weblink:"www.geheugenvannederland.nl" -grep:"www.geheugenvannederland.nl" "http://www.geheugenvannederland.nl" "https://geheugen.delpher.nl" -ns:0
+
+@PAWS:~$ pwb.py replace -lang:nl -simulate -file:wp-nl-articles-replace.txt -grep:"https://www.geheugenvannederland.nl" "https://www.geheugenvannederland.nl" "https://geheugen.delpher.nl"
+
+https://paws.wmflabs.org/paws/user/OlafJanssen/edit/wp-nl-articles-replace.txt
