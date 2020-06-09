@@ -5,10 +5,7 @@ Read this [article](stories/Making%20references%20to%20Dutch%20newspapers%20in%2
 * Folder *[ScriptsMerlijnVanDeen](ScriptsMerlijnVanDeen)*
   - The technique for replacing URLs is detailed in [this blogpost](https://web.archive.org/web/20200522204706/https://merlijn.vandeen.nl/2015/kb-replace-dead-links.html) by Merlijn van Deen. See the 4 screenshot below.
    - The Python scripts and [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) commands are available [from this folder](ScriptsMerlijnVanDeen/scripts)
-  <img src="stories/images/blogMvD_part1.jpg" align="left" width="200"/>
-  <img src="stories/images/blogMvD_part2.jpg" align="left" width="200"/>
-  <img src="stories/images/blogMvD_part3.jpg" align="left" width="200"/>
-  <img src="stories/images/blogMvD_part4.jpg" align="left" width="200"/>
+<img src="stories/images/blogMvD_part1.jpg" align="left" width="200"/><img src="stories/images/blogMvD_part2.jpg" align="left" width="200"/><img src="stories/images/blogMvD_part3.jpg" align="left" width="200"/><img src="stories/images/blogMvD_part4.jpg" align="left" width="200"/>
  
 * Folder *[GvN](GvN)* : Pywikibot commands for [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) to replace links to Geheugen van Nederland (GvN) in Wikipedia based on [this example](https://www.mediawiki.org/wiki/Manual:Pywikibot/PAWS#A_real_script_example)
 
