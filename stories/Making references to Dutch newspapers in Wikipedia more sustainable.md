@@ -8,8 +8,8 @@
 ### Key players: Delpher and KB
 To understand the rest of this post, I'll start with a short introduction of the two key players:  
 
-<<img src="https://raw.githubusercontent.com/KBNLwikimedia/WikimediaKBURLReplacement/master/stories/images/delpher_logo.png" align="left" width="70"/> [Delpher](https://www.delpher.nl) is a website containing over 100 million full-text digitized pages not only from Dutch [historical newspapers](https://www.delpher.nl/nl/kranten), but also from [books](https://www.delpher.nl/nl/boeken) and [periodicals](https://www.delpher.nl/nl/tijdschriften). In this article I'll focus on the newspapers in this archive.<br/> <br/> 
-<<img src="https://raw.githubusercontent.com/KBNLwikimedia/WikimediaKBURLReplacement/master/stories/images/kb_logo.png" align="left" width="70"/>The [Koninklijke Bibliotheek](https://www.kb.nl) (KB) is the national library of the Netherlands. Delpher is a services operated by the KB.<br/> <br/> 
+<img src="https://raw.githubusercontent.com/KBNLwikimedia/WikimediaKBURLReplacement/master/stories/images/delpher_logo.png" align="left" width="70"/> [Delpher](https://www.delpher.nl) is a website containing over 100 million full-text digitized pages not only from Dutch [historical newspapers](https://www.delpher.nl/nl/kranten), but also from [books](https://www.delpher.nl/nl/boeken) and [periodicals](https://www.delpher.nl/nl/tijdschriften). In this article I'll focus on the newspapers in this archive.<br/> <br/> 
+<img src="https://raw.githubusercontent.com/KBNLwikimedia/WikimediaKBURLReplacement/master/stories/images/kb_logo.png" align="left" width="70"/>The [Koninklijke Bibliotheek](https://www.kb.nl) (KB) is the national library of the Netherlands. Delpher is a services operated by the KB.<br/> <br/> 
 *********
 
 ### Finding Delpher links in Wikipedia, Part 2 ###
