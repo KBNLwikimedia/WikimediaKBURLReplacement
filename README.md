@@ -1,14 +1,14 @@
 <table width="100%" border="0"><tr><td align="left">
 <a href="https://kbnlwikimedia.github.io/tools/index.html"><< Back to tools and scripts index</a>
 </td><td align="right">
-<a href="https://github.com/KBNLwikimedia/GLAMorousToHTML" target="_blank">>> To the Github repo of this page</a>
+<a href="https://github.com/KBNLwikimedia/WikimediaKBURLReplacement" target="_blank">>> To the Github repo of this page</a>
 </td></tr></table>
 <hr/>
 
 # Wikimedia KB URL replacement
 *Code, scripts and stories about replacing outdated or non-persistent URLs of KB services in Wikipedia, Wikimedia Commons and Wikidata*
 
-Read the article *[Making references to Dutch newspapers in Wikipedia more sustainable](https:kbnlwikimedia.github.io/WikimediaKBURLReplacement/stories/Making%20references%20to%20Dutch%20newspapers%20in%20Wikipedia%20more%20sustainable.html)* to understand why and how the KB replaces outdates URLs in Wikipedia.
+Read the article *[Making references to Dutch newspapers in Wikipedia more sustainable](https://kbnlwikimedia.github.io/WikimediaKBURLReplacement/stories/Making%20references%20to%20Dutch%20newspapers%20in%20Wikipedia%20more%20sustainable.html)* to understand why and how the KB replaces outdates URLs in Wikipedia.
 
 * Folder *[ScriptsMerlijnVanDeen](ScriptsMerlijnVanDeen)*
   - The technique for replacing URLs is detailed in [this blogpost](https://web.archive.org/web/20200522204706/https://merlijn.vandeen.nl/2015/kb-replace-dead-links.html) by Merlijn van Deen. See the 4 screenshot below.
