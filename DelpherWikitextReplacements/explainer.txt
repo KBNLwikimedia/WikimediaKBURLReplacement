@@ -1,0 +1,13 @@
+MediaFromDelpher-InternetArchivefiles_16092025.xlsx was created by using PetScan : give me all files that are both in Commons category "Category:Media_from_Delpher" and in "Category:Scans_from_the_Internet_Archive" 
+
+https://petscan.wmcloud.org/?negcats=&cb_labels_yes_l=1&langs_labels_any=&min_redlink_count=1&templates_yes=&edits%5Bbots%5D=both&common_wiki_other=&sortorder=ascending&cb_labels_any_l=1&before=&langs_labels_yes=&page_image=any&active_tab=tab_categories&outlinks_any=&cb_labels_no_l=1&wikidata_label_language=&ores_prob_from=&pagepile=&wikidata_prop_item_use=&templates_any=&language=commons&ns%5B6%5D=1&ores_prediction=any&wikidata_item=no&show_redirects=both&search_filter=&sitelinks_yes=&interface_language=en&manual_list=&show_soft_redirects=both&search_query=&project=wikimedia&wpiu=any&templates_no=&combination=subset&ores_prob_to=&categories=Media_from_Delpher%0D%0AScans_from_the_Internet_Archive&depth=0&referrer_name=&search_max_results=500&output_compatability=catscan&sparql=
+
+This gives 55761 results dd 16-09-2025
+
+----------------
+
+MediaFromDelpher-Otherfiles_16092025.xlsx : PetScan : give me all files that are in Commons category "Category:Media_from_Delpher" but NOT in "Category:Scans_from_the_Internet_Archive" 
+
+https://petscan.wmcloud.org/?referrer_name=&wikidata_prop_item_use=&ns%5B6%5D=1&edits%5Banons%5D=both&ores_prob_from=&max_sitelink_count=&links_to_all=&langs_labels_no=&project=wikimedia&cb_labels_no_l=1&edits%5Bbots%5D=both&combination=subset&edits%5Bflagged%5D=both&wikidata_source_sites=&language=commons&outlinks_no=&wpiu=any&cb_labels_yes_l=1&max_age=&minlinks=&maxlinks=&search_max_results=500&categories=Media_from_Delpher%0D%0A&smaller=&ores_prediction=any&langs_labels_any=&interface_language=en&sitelinks_yes=&negcats=Scans_from_the_Internet_Archive&after=&templates_yes=&manual_list_wiki=&source_combination=&outlinks_any=&cb_labels_any_l=1&depth=0&show_soft_redirects=both&sparql=&sortorder=ascending&sitelinks_any=&search_filter=
+
+This gives 6519 results dd 16-09-2025
